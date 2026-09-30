@@ -2,7 +2,7 @@
  "title": "Spark X virality digest — 2026-09-30",
  "date": "2026-09-30",
  "timezone": "America/Chicago",
- "updated": "2026-09-30T11:14:05-05:00",
+ "updated": "2026-09-30T11:15:21-05:00",
  "brand_title": "Spark · X Virality Board",
  "brand_handle": "@BourgAnthony · @solitelectric",
  "operator_handles": [
@@ -16,9 +16,9 @@
   "star_views": 10000
  },
  "hit_window": {
-  "start": "2026-09-29T00:00:00-05:00",
-  "end": "2026-09-30T00:00:00-05:00",
-  "label": "posts from Tue Sep 29 CT"
+  "start": "2026-09-30T00:00:00-05:00",
+  "end": "2026-10-01T00:00:00-05:00",
+  "label": "posts from Wed Sep 30 CT"
  },
  "coverage": {
   "posts_in_corpus": 95,
@@ -43,8 +43,53 @@
   ],
   "note": "Full pull = recent originals pulled post-by-post via the read-only X API. Partial = only the account's best post(s) are in the corpus, so totals undercount."
  },
- "hits": [],
- "hits_count": 0,
+ "hits": [
+  {
+   "handle": "@sweatystartup",
+   "name": "Small-business / local services",
+   "url": "https://x.com/sweatystartup/status/2105296672209469480",
+   "status_url": "https://x.com/sweatystartup/status/2105296672209469480",
+   "posted_at": "2026-09-30T09:00:15-05:00",
+   "posted_label": "Wed Sep 30, 9:00 AM CT",
+   "views": 7045,
+   "views_label": "7,045",
+   "highlight": false,
+   "formats": [
+    "text"
+   ],
+   "quote_post": false,
+   "text": "What the internet gets wrong about real estate, a thread:",
+   "hook": "What the internet gets wrong about real estate, a thread:",
+   "draft_en": "What most contractor websites get wrong:\n\nThey talk about the company.\nCallers only care if you can fix the problem today.\n\nLead with the job. Phone number. Towns you cover.\nSave the about page for later.",
+   "draft_id": "A2",
+   "draft_account": "@BourgAnthony",
+   "video_tip": "Two stills side by side: a homepage that opens with a company story vs one that opens with Call now + town. Same phone frame."
+  },
+  {
+   "handle": "@alexgroberman",
+   "name": "SEO / AI-search for businesses",
+   "url": "https://x.com/alexgroberman/status/2105289457335427525",
+   "status_url": "https://x.com/alexgroberman/status/2105289457335427525",
+   "posted_at": "2026-09-30T08:31:35-05:00",
+   "posted_label": "Wed Sep 30, 8:31 AM CT",
+   "views": 6503,
+   "views_label": "6,503",
+   "highlight": false,
+   "formats": [
+    "photo",
+    "quote",
+    "longform"
+   ],
+   "quote_post": true,
+   "text": "If you run a local business, there is a big AI Search opportunity sitting on the website you already own.\n\nA new study analyzed more than 200,000 local AI searches and nearly 2 million citations.\n\nThe result?\n\n93% of the *unique* domains AI systems used as sources were individual https://t.co/CCquw8S6WA https://t.co/hbMJ7trpy3",
+   "hook": "If you run a local business, there is a big AI Search opportunity sitting on the website you already own.\n\nA new study analyzed more than 200,000 local AI searches and nearly 2 million citations.\n\nThe result?\n\n93% of the *unique* domains AI systems used as sources were individual https://t.co/CCquw8S6WA https://t.co/hbMJ7trpy3",
+   "draft_en": "If you run a local shop, AI search is already reading your website.\n\nA study of hundreds of thousands of local AI searches found most unique citations were individual business sites.\n\nNot big directories. Your own page.\n\nReal services. Real towns. Real photos.",
+   "draft_id": "A1",
+   "draft_account": "@BourgAnthony",
+   "video_tip": "Phone screen record: open your Google Business profile, then your own site service page. 10 seconds. No voiceover."
+  }
+ ],
+ "hits_count": 2,
  "virals": [],
  "outsiders": [],
  "outsiders_count": 0,
@@ -558,93 +603,81 @@
  ],
  "no_hits": [
   {
-   "handle": "@alexgroberman",
-   "status": "no_post",
-   "reason": "No original posted Tue Sep 29 CT. Latest pulled original: Wed Sep 30 (848 views).",
-   "max_views": null
-  },
-  {
-   "handle": "@sweatystartup",
-   "status": "no_post",
-   "reason": "No original posted Tue Sep 29 CT. Latest pulled original: Wed Sep 30 (1,138 views).",
-   "max_views": null
-  },
-  {
    "handle": "@DannPetty",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 20,292 views, best 71,982, 16/16 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 20,292 views, best 71,982, 16/16 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@MengTo",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 51,090 views, best 451,907, 10/10 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 51,090 views, best 451,907, 10/10 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@marclou",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 38,025 views, best 141,441, 8/8 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 38,025 views, best 141,441, 8/8 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@jh3yy",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 15,195 views, best 132,841, 5/8 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 15,195 views, best 132,841, 5/8 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@ridd_design",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 6,540 views, best 19,723, 11/15 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 6,540 views, best 19,723, 11/15 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@AdhamDannaway",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 4,377 views, best 98,108, 12/25 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 4,377 views, best 98,108, 12/25 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@mhp_guy",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 54,592 views, best 273,100, 9/9 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 54,592 views, best 273,100, 9/9 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@randfish",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 9,653 views, best 11,817, 4/5 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 9,653 views, best 11,817, 4/5 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@CyrusShepard",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 5,002 views, best 10,619, 3/5 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 5,002 views, best 10,619, 3/5 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@lilyraynyc",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 4,663 views, best 14,146, 4/11 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 4,663 views, best 14,146, 4/11 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@Fat_Electrician",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 91,086 views, best 247,678, 8/8 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 91,086 views, best 247,678, 8/8 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@mikeroweworks",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 41,134 views, best 1,056,426, 10/10 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 41,134 views, best 1,056,426, 10/10 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@electric_4u",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Sep 29 hit can't be confirmed. 30-day sample: median 6,916 views, best 11,642, 9/9 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Sep 30 hit can't be confirmed. 30-day sample: median 6,916 views, best 11,642, 9/9 originals ≥5,000.",
    "max_views": null
   }
  ],
@@ -663,22 +696,70 @@
  "leaderboards": {
   "as_of": "2026-09-30",
   "week": {
-   "label": "Week · Sep 23–Sep 29",
+   "label": "Week · Sep 24–Sep 30",
    "range": [
-    "2026-09-23",
-    "2026-09-29"
+    "2026-09-24",
+    "2026-09-30"
    ],
-   "entries": []
+   "entries": [
+    {
+     "handle": "@sweatystartup",
+     "name": "Small-business / local services",
+     "views": 7045,
+     "hits": 1,
+     "days": 1,
+     "best": 7045,
+     "best_url": "https://x.com/sweatystartup/status/2105296672209469480",
+     "best_hook": "What the internet gets wrong about real estate, a thread:",
+     "partial": false
+    },
+    {
+     "handle": "@alexgroberman",
+     "name": "SEO / AI-search for businesses",
+     "views": 6503,
+     "hits": 1,
+     "days": 1,
+     "best": 6503,
+     "best_url": "https://x.com/alexgroberman/status/2105289457335427525",
+     "best_hook": "If you run a local business, there is a big AI Search opportunity sitting on the website you already own.",
+     "partial": false
+    }
+   ]
   },
   "month": {
-   "label": "Month · Sep 1–Sep 29",
+   "label": "Month · Sep 1–Sep 30",
    "range": [
     "2026-09-01",
-    "2026-09-29"
+    "2026-09-30"
    ],
-   "entries": []
+   "entries": [
+    {
+     "handle": "@sweatystartup",
+     "name": "Small-business / local services",
+     "views": 7045,
+     "hits": 1,
+     "days": 1,
+     "best": 7045,
+     "best_url": "https://x.com/sweatystartup/status/2105296672209469480",
+     "best_hook": "What the internet gets wrong about real estate, a thread:",
+     "partial": false
+    },
+    {
+     "handle": "@alexgroberman",
+     "name": "SEO / AI-search for businesses",
+     "views": 6503,
+     "hits": 1,
+     "days": 1,
+     "best": 6503,
+     "best_url": "https://x.com/alexgroberman/status/2105289457335427525",
+     "best_hook": "If you run a local business, there is a big AI Search opportunity sitting on the website you already own.",
+     "partial": false
+    }
+   ]
   },
-  "days_included": [],
+  "days_included": [
+   "2026-09-30"
+  ],
   "note": "95 pulled originals ≥5K · partial-pull accounts undercount"
  },
  "board_features": {
