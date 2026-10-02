@@ -2,7 +2,7 @@
  "title": "Spark X virality digest — 2026-10-02",
  "date": "2026-10-02",
  "timezone": "America/Chicago",
- "updated": "2026-10-02T11:17:34-05:00",
+ "updated": "2026-10-02T11:17:53-05:00",
  "brand_title": "Spark · X Virality Board",
  "brand_handle": "@BourgAnthony · @solitelectric",
  "operator_handles": [
@@ -16,9 +16,9 @@
   "star_views": 10000
  },
  "hit_window": {
-  "start": "2026-10-02T00:00:00-05:00",
+  "start": "2026-10-01T12:00:00-05:00",
   "end": "2026-10-03T00:00:00-05:00",
-  "label": "posts from Fri Oct 2 CT"
+  "label": "last 36h before Oct 3 00:00 CT"
  },
  "coverage": {
   "posts_in_corpus": 112,
@@ -45,6 +45,29 @@
  },
  "hits": [
   {
+   "handle": "@mhp_guy",
+   "name": "Small-business marketing",
+   "url": "https://x.com/mhp_guy/status/2105735016051265820",
+   "status_url": "https://x.com/mhp_guy/status/2105735016051265820",
+   "posted_at": "2026-10-01T14:02:05-05:00",
+   "posted_label": "Thu Oct 1, 2:02 PM CT",
+   "views": 234592,
+   "views_label": "234,592",
+   "highlight": true,
+   "formats": [
+    "quote",
+    "photo",
+    "longform"
+   ],
+   "quote_post": true,
+   "text": "Well this was an easy fix.\n\nI had my AI agent scape and contact all 82 pool companies in DFW while I slept.\n\nIt sent my plans and survey and said I’d prefer to not hop on a call yet. Just need a ballpark price via email.\n\nI already have 5 prices. 77 to go. The game has changed.",
+   "hook": "Well this was an easy fix.\n\nI had my AI agent scape and contact all 82 pool companies in DFW while I slept.\n\nIt sent my plans and survey and said I’d prefer to not hop on a call yet. Just need a ballpark price via email.\n\nI already have 5 prices. 77 to go. The game has changed.",
+   "draft_en": "Someone just had an AI agent email 82 pool companies for a ballpark price while they slept.\n\nFive replied. Most never will.\n\nIf your site can't show towns, a price range, and a tap-to-call number, humans bounce. Agents will too.\n\nBallpark on the page beats silence.",
+   "draft_id": "A1",
+   "draft_account": "@BourgAnthony",
+   "video_tip": "Phone still: a trades homepage with no towns or prices next to one with Call now + service area. Same crop."
+  },
+  {
    "handle": "@marclou",
    "name": "Web/build in public",
    "url": "https://x.com/marclou/status/2106014598700863548",
@@ -65,6 +88,49 @@
    "draft_id": null,
    "draft_account": null,
    "video_tip": ""
+  },
+  {
+   "handle": "@mhp_guy",
+   "name": "Small-business marketing",
+   "url": "https://x.com/mhp_guy/status/2105857289316126875",
+   "status_url": "https://x.com/mhp_guy/status/2105857289316126875",
+   "posted_at": "2026-10-01T22:07:57-05:00",
+   "posted_label": "Thu Oct 1, 10:07 PM CT",
+   "views": 54820,
+   "views_label": "54,820",
+   "highlight": true,
+   "formats": [
+    "quote"
+   ],
+   "quote_post": true,
+   "text": "I saw this post and almost commented \n\n“Why doesn’t this have a million views?”\n\nSo I’m reposting it to make it come true.\n\nWith every passing day there are fewer and fewer excuses to be poor.",
+   "hook": "I saw this post and almost commented \n\n“Why doesn’t this have a million views?”\n\nSo I’m reposting it to make it come true.\n\nWith every passing day there are fewer and fewer excuses to be poor.",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
+   "video_tip": ""
+  },
+  {
+   "handle": "@mhp_guy",
+   "name": "Small-business marketing",
+   "url": "https://x.com/mhp_guy/status/2105773112893624820",
+   "status_url": "https://x.com/mhp_guy/status/2105773112893624820",
+   "posted_at": "2026-10-01T16:33:28-05:00",
+   "posted_label": "Thu Oct 1, 4:33 PM CT",
+   "views": 41349,
+   "views_label": "41,349",
+   "highlight": true,
+   "formats": [
+    "quote",
+    "longform"
+   ],
+   "quote_post": true,
+   "text": "If you think blue collar businesses are safe from AI, think again. \n\nWhat happens to their profit margins when they have to compete against 82 different quotes, instead of only 2?\n\nThe future is agents talking to agents, until the dollar amount necessitates a human.\n\nAs a blue",
+   "hook": "If you think blue collar businesses are safe from AI, think again. \n\nWhat happens to their profit margins when they have to compete against 82 different quotes, instead of only 2?\n\nThe future is agents talking to agents, until the dollar amount necessitates a human.\n\nAs a blue",
+   "draft_en": "Blue collar shops aren't safe from AI. Not because a bot pulls wire.\n\nBecause buyers will get 80 quotes overnight instead of 2.\n\nIf your site looks like 1998, you're one of the 75 that never get opened.\n\nClear towns. Real photos. Easy call button.",
+   "draft_id": "A2",
+   "draft_account": "@BourgAnthony",
+   "video_tip": "3-second scroll of an old contractor site, then cut to a clean one with the phone number stuck to the top."
   },
   {
    "handle": "@marclou",
@@ -90,6 +156,67 @@
    "video_tip": ""
   },
   {
+   "handle": "@jh3yy",
+   "name": "Web design (UI/CSS craft)",
+   "url": "https://x.com/jh3yy/status/2105823926978814273",
+   "status_url": "https://x.com/jh3yy/status/2105823926978814273",
+   "posted_at": "2026-10-01T19:55:23-05:00",
+   "posted_label": "Thu Oct 1, 7:55 PM CT",
+   "views": 35316,
+   "views_label": "35,316",
+   "highlight": true,
+   "formats": [
+    "video"
+   ],
+   "quote_post": false,
+   "text": "magnetic bento hover effect w/ css anchor positioning\n\n.bento {\n  li:hover article { anchor-name: --a; }\n  .indicator {\n    position-anchor: --a;\n    inset: anchor(inside);\n    transition: inset var(--dur) var(--ease);\n  }\n}",
+   "hook": "magnetic bento hover effect w/ css anchor positioning\n\n.bento {\n  li:hover article { anchor-name: --a; }\n  .indicator {\n    position-anchor: --a;\n    inset: anchor(inside);\n    transition: inset var(--dur) var(--ease);\n  }\n}",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
+   "video_tip": ""
+  },
+  {
+   "handle": "@mhp_guy",
+   "name": "Small-business marketing",
+   "url": "https://x.com/mhp_guy/status/2105726447830831548",
+   "status_url": "https://x.com/mhp_guy/status/2105726447830831548",
+   "posted_at": "2026-10-01T13:28:02-05:00",
+   "posted_label": "Thu Oct 1, 1:28 PM CT",
+   "views": 31505,
+   "views_label": "31,505",
+   "highlight": true,
+   "formats": [
+    "photo"
+   ],
+   "quote_post": false,
+   "text": "Imagine thinking:  \n\n“I’m going to start a pizza chain, except we won’t cook the pizza. We’ll just sell ‘em raw”  \n\nAnd then having 1,100 locations and $800m in revenue.  \n\nThere’s a business for everything.",
+   "hook": "Imagine thinking:  \n\n“I’m going to start a pizza chain, except we won’t cook the pizza. We’ll just sell ‘em raw”  \n\nAnd then having 1,100 locations and $800m in revenue.  \n\nThere’s a business for everything.",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
+   "video_tip": ""
+  },
+  {
+   "handle": "@sweatystartup",
+   "name": "Small-business / local services",
+   "url": "https://x.com/sweatystartup/status/2105759245459464240",
+   "status_url": "https://x.com/sweatystartup/status/2105759245459464240",
+   "posted_at": "2026-10-01T15:38:21-05:00",
+   "posted_label": "Thu Oct 1, 3:38 PM CT",
+   "views": 14911,
+   "views_label": "14,911",
+   "highlight": true,
+   "formats": [],
+   "quote_post": false,
+   "text": "How to delegate the right way",
+   "hook": "How to delegate the right way",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
+   "video_tip": ""
+  },
+  {
    "handle": "@marclou",
    "name": "Web/build in public",
    "url": "https://x.com/marclou/status/2105972566435434834",
@@ -105,6 +232,48 @@
    "quote_post": false,
    "text": "Build what your users need, and they’ll do the marketing for you.\n\n(mention tracking)",
    "hook": "Build what your users need, and they’ll do the marketing for you.\n\n(mention tracking)",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
+   "video_tip": ""
+  },
+  {
+   "handle": "@DannPetty",
+   "name": "Web design",
+   "url": "https://x.com/DannPetty/status/2105743999696847090",
+   "status_url": "https://x.com/DannPetty/status/2105743999696847090",
+   "posted_at": "2026-10-01T14:37:47-05:00",
+   "posted_label": "Thu Oct 1, 2:37 PM CT",
+   "views": 12181,
+   "views_label": "12,181",
+   "highlight": true,
+   "formats": [
+    "photo"
+   ],
+   "quote_post": false,
+   "text": "I'm literally having the best time of my life.\n\nI'd rather head coach my kids' baseball, softball, and basketball teams than work on extra income or side projects right now. So that's what I'm doing.\n\nThe side projects will still be there...post season.",
+   "hook": "I'm literally having the best time of my life.\n\nI'd rather head coach my kids' baseball, softball, and basketball teams than work on extra income or side projects right now. So that's what I'm doing.\n\nThe side projects will still be there...post season.",
+   "draft_en": "Panel work in [city] today.\n\nOld: [age/brand/amperage]\nNew: [what went in]\n\n[before photo] [after photo]\n\n[One line from her about what she caught on this job]",
+   "draft_id": "S3",
+   "draft_account": "@solitelectric",
+   "video_tip": "Before/after from the same spot, cover off, good light. 3-second pan across labeled breakers at the end."
+  },
+  {
+   "handle": "@jh3yy",
+   "name": "Web design (UI/CSS craft)",
+   "url": "https://x.com/jh3yy/status/2105727278856487345",
+   "status_url": "https://x.com/jh3yy/status/2105727278856487345",
+   "posted_at": "2026-10-01T13:31:20-05:00",
+   "posted_label": "Thu Oct 1, 1:31 PM CT",
+   "views": 7946,
+   "views_label": "7,946",
+   "highlight": false,
+   "formats": [
+    "video"
+   ],
+   "quote_post": false,
+   "text": "punch it 🤘",
+   "hook": "punch it 🤘",
    "draft_en": "",
    "draft_id": null,
    "draft_account": null,
@@ -196,9 +365,30 @@
    "draft_id": null,
    "draft_account": null,
    "video_tip": ""
+  },
+  {
+   "handle": "@lilyraynyc",
+   "name": "SEO",
+   "url": "https://x.com/lilyraynyc/status/2105781327559573662",
+   "status_url": "https://x.com/lilyraynyc/status/2105781327559573662",
+   "posted_at": "2026-10-01T17:06:06-05:00",
+   "posted_label": "Thu Oct 1, 5:06 PM CT",
+   "views": 5008,
+   "views_label": "5,008",
+   "highlight": false,
+   "formats": [
+    "quote"
+   ],
+   "quote_post": true,
+   "text": "😩😩😩",
+   "hook": "😩😩😩",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
+   "video_tip": ""
   }
  ],
- "hits_count": 7,
+ "hits_count": 16,
  "virals": [],
  "outsiders": [],
  "outsiders_count": 0,
@@ -773,27 +963,15 @@
  ],
  "no_hits": [
   {
-   "handle": "@jh3yy",
+   "handle": "@CyrusShepard",
    "status": "below_floor",
-   "reason": "25 original(s) on Fri Oct 2, all below 5,000; best 453 views.",
-   "max_views": 453
-  },
-  {
-   "handle": "@DannPetty",
-   "status": "no_post",
-   "reason": "No original posted Fri Oct 2 CT. Latest pulled original: Thu Oct 1 (12,181 views).",
-   "max_views": null
+   "reason": "3 original(s) on Fri Oct 2, all below 5,000; best 4,388 views.",
+   "max_views": 4388
   },
   {
    "handle": "@MengTo",
    "status": "no_post",
    "reason": "No original posted Fri Oct 2 CT.",
-   "max_views": null
-  },
-  {
-   "handle": "@CyrusShepard",
-   "status": "no_post",
-   "reason": "No original posted Fri Oct 2 CT. Latest pulled original: Thu Oct 1 (4,388 views).",
    "max_views": null
   },
   {
@@ -818,12 +996,6 @@
    "handle": "@randfish",
    "status": "not_pulled",
    "reason": "Not in today's post-by-post pull, so a Oct 2 hit can't be confirmed. 30-day sample: median 9,653 views, best 11,817, 4/5 originals ≥5,000.",
-   "max_views": null
-  },
-  {
-   "handle": "@lilyraynyc",
-   "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 2 hit can't be confirmed. 30-day sample: median 4,663 views, best 14,146, 4/11 originals ≥5,000.",
    "max_views": null
   },
   {
