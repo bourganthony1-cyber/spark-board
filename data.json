@@ -1,8 +1,8 @@
 {
- "title": "Spark X virality digest — 2026-10-01",
- "date": "2026-10-01",
+ "title": "Spark X virality digest — 2026-10-02",
+ "date": "2026-10-02",
  "timezone": "America/Chicago",
- "updated": "2026-10-01T11:13:36-05:00",
+ "updated": "2026-10-02T11:17:34-05:00",
  "brand_title": "Spark · X Virality Board",
  "brand_handle": "@BourgAnthony · @solitelectric",
  "operator_handles": [
@@ -16,30 +16,30 @@
   "star_views": 10000
  },
  "hit_window": {
-  "start": "2026-10-01T00:00:00-05:00",
-  "end": "2026-10-02T00:00:00-05:00",
-  "label": "posts from Thu Oct 1 CT"
+  "start": "2026-10-02T00:00:00-05:00",
+  "end": "2026-10-03T00:00:00-05:00",
+  "label": "posts from Fri Oct 2 CT"
  },
  "coverage": {
-  "posts_in_corpus": 82,
+  "posts_in_corpus": 112,
   "full_pull_accounts": [
+   "@CyrusShepard",
+   "@DannPetty",
+   "@MengTo",
    "@alexgroberman",
+   "@electric_4u",
+   "@jh3yy",
+   "@marclou",
    "@mhp_guy",
    "@sweatystartup"
   ],
   "partial_accounts": [
-   "@DannPetty",
-   "@MengTo",
-   "@marclou",
-   "@jh3yy",
    "@ridd_design",
    "@AdhamDannaway",
    "@randfish",
-   "@CyrusShepard",
    "@lilyraynyc",
    "@Fat_Electrician",
-   "@mikeroweworks",
-   "@electric_4u"
+   "@mikeroweworks"
   ],
   "note": "Full pull = recent originals pulled post-by-post via the read-only X API. Partial = only the account's best post(s) are in the corpus, so totals undercount."
  },
@@ -47,40 +47,64 @@
   {
    "handle": "@marclou",
    "name": "Web/build in public",
-   "url": "https://x.com/marclou/status/2105609676562055306",
-   "status_url": "https://x.com/marclou/status/2105609676562055306",
-   "posted_at": "2026-10-01T05:44:01-05:00",
-   "posted_label": "Thu Oct 1, 5:44 AM CT",
-   "views": 12415,
-   "views_label": "12,415",
+   "url": "https://x.com/marclou/status/2106014598700863548",
+   "status_url": "https://x.com/marclou/status/2106014598700863548",
+   "posted_at": "2026-10-02T08:33:02-05:00",
+   "posted_label": "Fri Oct 2, 8:33 AM CT",
+   "views": 61788,
+   "views_label": "61,788",
    "highlight": true,
    "formats": [
-    "photo"
+    "photo",
+    "longform"
    ],
    "quote_post": false,
-   "text": "I added a new acquisition pipeline for buyers of TrustMRR:\n\n❤️ Save startups\n📁 Group by folders\n🤝 See ongoing deals\n\nIf you're a user, please let me know what's missing? Thanks! https://t.co/ZhnlNeDGvW",
-   "hook": "I added a new acquisition pipeline for buyers of TrustMRR:\n\n❤️ Save startups\n📁 Group by folders\n🤝 See ongoing deals\n\nIf you're a user, please let me know what's missing? Thanks! https://t.co/ZhnlNeDGvW",
+   "text": "I did my yearly body fat test this morning.\n\n5.5%\n\nThe doctor used a skinfold tool and measured 7 areas on my body.\n\n5.5% is very low, and I'm still a bit skeptical because bodybuilders have 3-4%, and I look nowhere near that.\n\nI'm 181cm and 84 kg, so my lean mass is good. I'm",
+   "hook": "I did my yearly body fat test this morning.\n\n5.5%\n\nThe doctor used a skinfold tool and measured 7 areas on my body.\n\n5.5% is very low, and I'm still a bit skeptical because bodybuilders have 3-4%, and I look nowhere near that.\n\nI'm 181cm and 84 kg, so my lean mass is good. I'm",
    "draft_en": "",
    "draft_id": null,
    "draft_account": null,
    "video_tip": ""
   },
   {
-   "handle": "@sweatystartup",
-   "name": "Small-business / local services",
-   "url": "https://x.com/sweatystartup/status/2105645950995980753",
-   "status_url": "https://x.com/sweatystartup/status/2105645950995980753",
-   "posted_at": "2026-10-01T08:08:10-05:00",
-   "posted_label": "Thu Oct 1, 8:08 AM CT",
-   "views": 10065,
-   "views_label": "10,065",
+   "handle": "@marclou",
+   "name": "Web/build in public",
+   "url": "https://x.com/marclou/status/2105993958035976225",
+   "status_url": "https://x.com/marclou/status/2105993958035976225",
+   "posted_at": "2026-10-02T07:11:01-05:00",
+   "posted_label": "Fri Oct 2, 7:11 AM CT",
+   "views": 36993,
+   "views_label": "36,993",
    "highlight": true,
    "formats": [
-    "quote"
+    "quote",
+    "photo",
+    "longform"
    ],
    "quote_post": true,
-   "text": "If you own a company or want to own a company someday, listen to this!!! https://t.co/vFKaesfVvP",
-   "hook": "If you own a company or want to own a company someday, listen to this!!! https://t.co/vFKaesfVvP",
+   "text": "I finally got a Reverse Osmosis filter!\n\nFor the past 3 years, I've been traveling the world looking for a place to live. Now I have a yearly rental in Cyprus; I've started upgrading my life 🤗\n\nThe RO filter purifies drinking water by removing up to 99% of heavy metals and",
+   "hook": "I finally got a Reverse Osmosis filter!\n\nFor the past 3 years, I've been traveling the world looking for a place to live. Now I have a yearly rental in Cyprus; I've started upgrading my life 🤗\n\nThe RO filter purifies drinking water by removing up to 99% of heavy metals and",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
+   "video_tip": ""
+  },
+  {
+   "handle": "@marclou",
+   "name": "Web/build in public",
+   "url": "https://x.com/marclou/status/2105972566435434834",
+   "status_url": "https://x.com/marclou/status/2105972566435434834",
+   "posted_at": "2026-10-02T05:46:01-05:00",
+   "posted_label": "Fri Oct 2, 5:46 AM CT",
+   "views": 14324,
+   "views_label": "14,324",
+   "highlight": true,
+   "formats": [
+    "photo"
+   ],
+   "quote_post": false,
+   "text": "Build what your users need, and they’ll do the marketing for you.\n\n(mention tracking)",
+   "hook": "Build what your users need, and they’ll do the marketing for you.\n\n(mention tracking)",
    "draft_en": "",
    "draft_id": null,
    "draft_account": null,
@@ -89,73 +113,92 @@
   {
    "handle": "@alexgroberman",
    "name": "SEO / AI-search for businesses",
-   "url": "https://x.com/alexgroberman/status/2105655686483104074",
-   "status_url": "https://x.com/alexgroberman/status/2105655686483104074",
-   "posted_at": "2026-10-01T08:46:51-05:00",
-   "posted_label": "Thu Oct 1, 8:46 AM CT",
-   "views": 7906,
-   "views_label": "7,906",
+   "url": "https://x.com/alexgroberman/status/2106006897551868312",
+   "status_url": "https://x.com/alexgroberman/status/2106006897551868312",
+   "posted_at": "2026-10-02T08:02:26-05:00",
+   "posted_label": "Fri Oct 2, 8:02 AM CT",
+   "views": 7335,
+   "views_label": "7,335",
    "highlight": false,
    "formats": [
-    "photo",
-    "photo",
-    "photo",
-    "photo",
     "quote",
+    "photo",
     "longform"
    ],
    "quote_post": true,
-   "text": "If you run a local biz, there is a huge opportunity in becoming the company multiple AI engines independently decide to recommend.\n\nAlmost nobody is doing it consistently...\n\nBut when four major AI engines *DID* agree on the same top local business in a new study, something https://t.co/DJQ9S9dn9V https://t.co/srcqsKJL4w",
-   "hook": "If you run a local biz, there is a huge opportunity in becoming the company multiple AI engines independently decide to recommend.\n\nAlmost nobody is doing it consistently...\n\nBut when four major AI engines *DID* agree on the same top local business in a new study, something https://t.co/DJQ9S9dn9V https://t.co/srcqsKJL4w",
-   "draft_en": "If you run a local shop, AI engines are already picking who to recommend.\n\nA new study found cases where four major engines agreed on the same top local business.\n\nThat shop had a clear site. Real services. Real towns. Real photos.\n\nDirectories alone don't win that.",
-   "draft_id": "A1",
+   "text": "There is a massive AI Search opportunity right now that I think a lot of businesses are measuring completely wrong.\n\nA new ecommerce study analyzed 96.4 million sessions and 976,668 orders across 73 online stores.\n\nAI referral traffic over the course of a year?\n\nBasically flat.",
+   "hook": "There is a massive AI Search opportunity right now that I think a lot of businesses are measuring completely wrong.\n\nA new ecommerce study analyzed 96.4 million sessions and 976,668 orders across 73 online stores.\n\nAI referral traffic over the course of a year?\n\nBasically flat.",
+   "draft_en": "A lot of shops measure AI search wrong.\n\nThey watch referral traffic and call it flat.\n\nAsk ChatGPT for your trade plus your town. Screenshot who shows up.\n\nIf it isn't you, fix the page: services, towns, real job photos. Then check again.",
+   "draft_id": "A3",
    "draft_account": "@BourgAnthony",
-   "video_tip": "Phone screen record: type a trade + your town into ChatGPT or Gemini. Screenshot who shows up. 10 seconds. No voiceover."
+   "video_tip": "Screen-record 10 seconds: type '[trade] in [town]' into ChatGPT or Gemini. Show who gets named. No voiceover."
   },
   {
    "handle": "@marclou",
    "name": "Web/build in public",
-   "url": "https://x.com/marclou/status/2105631821212029076",
-   "status_url": "https://x.com/marclou/status/2105631821212029076",
-   "posted_at": "2026-10-01T07:12:01-05:00",
-   "posted_label": "Thu Oct 1, 7:12 AM CT",
-   "views": 7273,
-   "views_label": "7,273",
+   "url": "https://x.com/marclou/status/2106014615020978611",
+   "status_url": "https://x.com/marclou/status/2106014615020978611",
+   "posted_at": "2026-10-02T08:33:06-05:00",
+   "posted_label": "Fri Oct 2, 8:33 AM CT",
+   "views": 5597,
+   "views_label": "5,597",
    "highlight": false,
    "formats": [
+    "reply",
     "photo"
    ],
    "quote_post": false,
-   "text": "TrustMRR now has 230K monthly unique visitors.\n\n+30% vs. last month\n\n51% of visitors return, and they visit an average of 4.6 pages per session. https://t.co/zXLi5raDgu",
-   "hook": "TrustMRR now has 230K monthly unique visitors.\n\n+30% vs. last month\n\n51% of visitors return, and they visit an average of 4.6 pages per session. https://t.co/zXLi5raDgu",
+   "text": "@alexwestco in the background https://t.co/OxPPqjMj6z",
+   "hook": "@alexwestco in the background https://t.co/OxPPqjMj6z",
    "draft_en": "",
    "draft_id": null,
    "draft_account": null,
    "video_tip": ""
   },
   {
-   "handle": "@marclou",
-   "name": "Web/build in public",
-   "url": "https://x.com/marclou/status/2105646745623441432",
-   "status_url": "https://x.com/marclou/status/2105646745623441432",
-   "posted_at": "2026-10-01T08:11:19-05:00",
-   "posted_label": "Thu Oct 1, 8:11 AM CT",
-   "views": 5060,
-   "views_label": "5,060",
+   "handle": "@sweatystartup",
+   "name": "Small-business / local services",
+   "url": "https://x.com/sweatystartup/status/2106031165052162163",
+   "status_url": "https://x.com/sweatystartup/status/2106031165052162163",
+   "posted_at": "2026-10-02T09:38:52-05:00",
+   "posted_label": "Fri Oct 2, 9:38 AM CT",
+   "views": 5055,
+   "views_label": "5,055",
    "highlight": false,
    "formats": [
-    "reply"
+    "longform"
    ],
    "quote_post": false,
-   "text": "@martindonadieu Private jet profitable ✅",
-   "hook": "@martindonadieu Private jet profitable ✅",
+   "text": "To build a business you need people to work for you, partner with you, and buy from you.\n\nEvery problem is a people problem. Somebody didn’t do what they said they were going to do. Somebody expected one thing and got another.\n\nDealing with people is something you have to do all",
+   "hook": "To build a business you need people to work for you, partner with you, and buy from you.\n\nEvery problem is a people problem. Somebody didn’t do what they said they were going to do. Somebody expected one thing and got another.\n\nDealing with people is something you have to do all",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
+   "video_tip": ""
+  },
+  {
+   "handle": "@mhp_guy",
+   "name": "Small-business marketing",
+   "url": "https://x.com/mhp_guy/status/2106047293359059375",
+   "status_url": "https://x.com/mhp_guy/status/2106047293359059375",
+   "posted_at": "2026-10-02T10:42:57-05:00",
+   "posted_label": "Fri Oct 2, 10:42 AM CT",
+   "views": 5022,
+   "views_label": "5,022",
+   "highlight": false,
+   "formats": [
+    "quote"
+   ],
+   "quote_post": true,
+   "text": "You’ll learn more about making money in this one tweet below than I found in a 4 year business degree + a 2 year MBA. \n\nIt really is that simple. But you have to actually do something.",
+   "hook": "You’ll learn more about making money in this one tweet below than I found in a 4 year business degree + a 2 year MBA. \n\nIt really is that simple. But you have to actually do something.",
    "draft_en": "",
    "draft_id": null,
    "draft_account": null,
    "video_tip": ""
   }
  ],
- "hits_count": 5,
+ "hits_count": 7,
  "virals": [],
  "outsiders": [],
  "outsiders_count": 0,
@@ -163,326 +206,368 @@
  "virals_window": null,
  "virals_narrative": "",
  "patterns": [
-  "website(s) / site · 10 posts · med 20",
-  "Google / HCU / updates · 5 posts · med 3.9K",
-  "AI search / AI engines / AI Overviews · 4 posts · med 3.3K",
-  "hiring / delegation / team · 4 posts · med 1.8K",
-  "Opus / AI coding · 4 posts · med 824",
-  "CSS / field-sizing / frontend craft · 4 posts · med 476",
-  "MRR / visitors / acquisition · 3 posts · med 7.3K",
-  "recommend / cited / citations · 3 posts · med 3.9K",
-  "pool / home service / contractor quote · 2 posts · med 56.4K",
-  "listen / podcast / conversation · 2 posts · med 16.6K",
-  "visibility / recovery · 2 posts · med 4.9K",
-  "listicles / scaled content · 2 posts · med 3.7K",
-  "electrical / trades · 1 posts · med 14.4K",
-  "DFW / local ask · 1 posts · med 14.4K",
-  "local business / local biz · 1 posts · med 7.9K",
-  "business partner / money · 1 posts · med 4.6K"
+  "business / companies · 9 posts · med 5.1K",
+  "AI / agents · 14 posts · med 2.6K",
+  "design / CSS · 7 posts · med 502",
+  "website(s) / site · 6 posts · med 1.4K",
+  "AI search · 3 posts · med 4.4K",
+  "opt.?out / AI visibility · 4 posts · med 2.9K",
+  "blue collar / trades · 2 posts · med 138K",
+  "ballpark / quote / price · 2 posts · med 138K",
+  "local / DFW / towns · 2 posts · med 117.4K",
+  "delegate / people · 2 posts · med 10K",
+  "Google · 2 posts · med 2.4K",
+  "ChatGPT · 1 posts · med 2.7K",
+  "cited / recommend · 1 posts · med 2.7K",
+  "SEO · 2 posts · med 1.8K",
+  "slop · 2 posts · med 3.7K"
  ],
  "hook_patterns": [
   {
+   "pattern": "big_specific_number",
+   "label": "Big specific number",
+   "description": "Opens with a specific number, stat, or dollar figure",
+   "count": 5,
+   "median_views": 36993,
+   "accounts": [
+    "@alexgroberman",
+    "@marclou",
+    "@mhp_guy"
+   ],
+   "example": {
+    "url": "https://x.com/mhp_guy/status/2105735016051265820",
+    "views": 234592,
+    "first_line": "Well this was an easy fix."
+   }
+  },
+  {
    "pattern": "hot_take_prediction",
    "label": "Hot take / prediction",
-   "description": "Opinion/prediction flag",
-   "count": 0,
-   "median_views": 60778,
+   "description": "Opinion/prediction",
+   "count": 4,
+   "median_views": 48084,
    "accounts": [
     "@mhp_guy",
     "@sweatystartup"
    ],
    "example": {
-    "url": "https://x.com/mhp_guy/status/2105426522714608107",
-    "views": 98399,
-    "first_line": "We have had FOUR pool companies come out to quote us and/or take measurements."
+    "url": "https://x.com/mhp_guy/status/2105735016051265820",
+    "views": 234592,
+    "first_line": "Well this was an easy fix."
    }
   },
   {
    "pattern": "i_made_show_work",
    "label": "I made / show the work",
-   "description": "I made / I built / Working on / show craft",
-   "count": 0,
-   "median_views": 19994,
-   "accounts": [
-    "@marclou",
-    "@ridd_design"
-   ],
-   "example": {
-    "url": "https://x.com/ridd_design/status/2105459895973576931",
-    "views": 27573,
-    "first_line": "reverse engineer all the things"
-   }
-  },
-  {
-   "pattern": "direct_question_cta",
-   "label": "Direct question CTA",
-   "description": "Asks the audience",
-   "count": 0,
-   "median_views": 13421,
+   "description": "I made / I built / show work",
+   "count": 3,
+   "median_views": 54820,
    "accounts": [
     "@marclou",
     "@mhp_guy"
    ],
    "example": {
-    "url": "https://x.com/mhp_guy/status/2105429684511277173",
-    "views": 14428,
-    "first_line": "I need a spray foam insulation guy in DFW."
+    "url": "https://x.com/marclou/status/2106014598700863548",
+    "views": 61788,
+    "first_line": "I did my yearly body fat test this morning."
+   }
+  },
+  {
+   "pattern": "x_vs_y_contrast",
+   "label": "X vs Y contrast",
+   "description": "Two-thing contrast",
+   "count": 1,
+   "median_views": 41349,
+   "accounts": [
+    "@mhp_guy"
+   ],
+   "example": {
+    "url": "https://x.com/mhp_guy/status/2105773112893624820",
+    "views": 41349,
+    "first_line": "If you think blue collar businesses are safe from AI, think again."
    }
   },
   {
    "pattern": "if_you_want",
    "label": "If you want…",
-   "description": "Conditional benefit hook",
-   "count": 0,
-   "median_views": 8985,
+   "description": "Conditional benefit",
+   "count": 1,
+   "median_views": 41349,
    "accounts": [
-    "@alexgroberman",
-    "@sweatystartup"
+    "@mhp_guy"
    ],
    "example": {
-    "url": "https://x.com/sweatystartup/status/2105645950995980753",
-    "views": 10065,
-    "first_line": "If you own a company or want to own a company someday, listen to this!!! https://t.co/vFKaesfVvP"
+    "url": "https://x.com/mhp_guy/status/2105773112893624820",
+    "views": 41349,
+    "first_line": "If you think blue collar businesses are safe from AI, think again."
    }
   },
   {
-   "pattern": "big_specific_number",
-   "label": "Big specific number",
-   "description": "Opens with a specific number, stat, or dollar figure",
-   "count": 0,
-   "median_views": 7273,
+   "pattern": "imperative_challenge",
+   "label": "Imperative challenge",
+   "description": "Command to reader",
+   "count": 1,
+   "median_views": 31505,
    "accounts": [
-    "@marclou"
+    "@mhp_guy"
    ],
    "example": {
-    "url": "https://x.com/marclou/status/2105631821212029076",
-    "views": 7273,
-    "first_line": "TrustMRR now has 230K monthly unique visitors."
+    "url": "https://x.com/mhp_guy/status/2105726447830831548",
+    "views": 31505,
+    "first_line": "Imagine thinking:"
+   }
+  },
+  {
+   "pattern": "question_explainer",
+   "label": "Question → explainer",
+   "description": "What/Why/Ever-wondered",
+   "count": 1,
+   "median_views": 14911,
+   "accounts": [
+    "@sweatystartup"
+   ],
+   "example": {
+    "url": "https://x.com/sweatystartup/status/2105759245459464240",
+    "views": 14911,
+    "first_line": "How to delegate the right way"
+   }
+  },
+  {
+   "pattern": "news_just_dropped",
+   "label": "News just dropped",
+   "description": "X just did/now does Y",
+   "count": 1,
+   "median_views": 7335,
+   "accounts": [
+    "@alexgroberman"
+   ],
+   "example": {
+    "url": "https://x.com/alexgroberman/status/2106006897551868312",
+    "views": 7335,
+    "first_line": "There is a massive AI Search opportunity right now that I think a lot of businesses are measuring completely wrong."
    }
   }
  ],
  "keywords": [
   {
-   "keyword": "website(s) / site",
-   "posts": 10,
-   "posts_focus": 10,
+   "keyword": "business / companies",
+   "posts": 9,
+   "posts_focus": 8,
    "accounts": [
+    "CyrusShepard",
+    "alexgroberman",
+    "lilyraynyc",
+    "marclou",
+    "mhp_guy",
+    "sweatystartup"
+   ],
+   "median_views": 5055,
+   "example_urls": [
+    "https://x.com/mhp_guy/status/2105735016051265820",
+    "https://x.com/mhp_guy/status/2105773112893624820",
+    "https://x.com/mhp_guy/status/2105726447830831548"
+   ]
+  },
+  {
+   "keyword": "AI / agents",
+   "posts": 14,
+   "posts_focus": 8,
+   "accounts": [
+    "CyrusShepard",
     "alexgroberman",
     "cedric_design",
-    "jh3yy",
-    "johndsaunders"
+    "lilyraynyc",
+    "marclou",
+    "mhp_guy",
+    "nathangotch"
    ],
-   "median_views": 20,
+   "median_views": 2619,
    "example_urls": [
-    "https://x.com/alexgroberman/status/2105682539109319133",
-    "https://x.com/johndsaunders/status/2105650060789010586",
+    "https://x.com/mhp_guy/status/2105735016051265820",
+    "https://x.com/mhp_guy/status/2105773112893624820",
+    "https://x.com/alexgroberman/status/2106006897551868312"
+   ]
+  },
+  {
+   "keyword": "design / CSS",
+   "posts": 7,
+   "posts_focus": 5,
+   "accounts": [
+    "AdhamDannaway",
+    "cedric_design",
+    "jh3yy"
+   ],
+   "median_views": 502,
+   "example_urls": [
+    "https://x.com/jh3yy/status/2105823926978814273",
+    "https://x.com/jh3yy/status/2105819085670134048",
+    "https://x.com/AdhamDannaway/status/2106031197172441327"
+   ]
+  },
+  {
+   "keyword": "website(s) / site",
+   "posts": 6,
+   "posts_focus": 4,
+   "accounts": [
+    "CyrusShepard",
+    "alexgroberman",
+    "cedric_design",
+    "johndsaunders",
+    "marclou"
+   ],
+   "median_views": 1447,
+   "example_urls": [
+    "https://x.com/CyrusShepard/status/2105749266480451996",
+    "https://x.com/alexgroberman/status/2106043561204687342",
     "https://x.com/cedric_design/status/2105690204107653625"
    ]
   },
   {
-   "keyword": "Google / HCU / updates",
-   "posts": 5,
-   "posts_focus": 5,
-   "accounts": [
-    "alexgroberman",
-    "lilyraynyc",
-    "mhp_guy"
-   ],
-   "median_views": 3884,
-   "example_urls": [
-    "https://x.com/mhp_guy/status/2105423241103749240",
-    "https://x.com/lilyraynyc/status/2105370093030940782",
-    "https://x.com/lilyraynyc/status/2105387660726477087"
-   ]
-  },
-  {
-   "keyword": "AI search / AI engines / AI Overviews",
-   "posts": 4,
-   "posts_focus": 4,
-   "accounts": [
-    "alexgroberman",
-    "lilyraynyc"
-   ],
-   "median_views": 3257,
-   "example_urls": [
-    "https://x.com/alexgroberman/status/2105655686483104074",
-    "https://x.com/lilyraynyc/status/2105387660726477087",
-    "https://x.com/alexgroberman/status/2105682539109319133"
-   ]
-  },
-  {
-   "keyword": "hiring / delegation / team",
-   "posts": 4,
-   "posts_focus": 4,
-   "accounts": [
-    "MengTo",
-    "jh3yy",
-    "ridd_design",
-    "sweatystartup"
-   ],
-   "median_views": 1811,
-   "example_urls": [
-    "https://x.com/sweatystartup/status/2105408006108455194",
-    "https://x.com/MengTo/status/2105680287854440715",
-    "https://x.com/ridd_design/status/2105682652539859064"
-   ]
-  },
-  {
-   "keyword": "Opus / AI coding",
-   "posts": 4,
-   "posts_focus": 4,
-   "accounts": [
-    "MengTo",
-    "ridd_design"
-   ],
-   "median_views": 824,
-   "example_urls": [
-    "https://x.com/MengTo/status/2105680287854440715",
-    "https://x.com/ridd_design/status/2105644462034882893",
-    "https://x.com/MengTo/status/2105683057835729218"
-   ]
-  },
-  {
-   "keyword": "CSS / field-sizing / frontend craft",
-   "posts": 4,
-   "posts_focus": 4,
-   "accounts": [
-    "jh3yy"
-   ],
-   "median_views": 476,
-   "example_urls": [
-    "https://x.com/jh3yy/status/2105446925851873494",
-    "https://x.com/jh3yy/status/2105624079743246787",
-    "https://x.com/jh3yy/status/2105457615983825213"
-   ]
-  },
-  {
-   "keyword": "MRR / visitors / acquisition",
+   "keyword": "AI search",
    "posts": 3,
    "posts_focus": 3,
    "accounts": [
-    "marclou"
+    "CyrusShepard",
+    "alexgroberman"
    ],
-   "median_views": 7273,
+   "median_views": 4388,
    "example_urls": [
-    "https://x.com/marclou/status/2105609676562055306",
-    "https://x.com/marclou/status/2105631821212029076",
-    "https://x.com/marclou/status/2105595883295506818"
+    "https://x.com/alexgroberman/status/2106006897551868312",
+    "https://x.com/CyrusShepard/status/2105749266480451996",
+    "https://x.com/CyrusShepard/status/2105747886948675641"
    ]
   },
   {
-   "keyword": "recommend / cited / citations",
-   "posts": 3,
+   "keyword": "opt.?out / AI visibility",
+   "posts": 4,
    "posts_focus": 3,
    "accounts": [
+    "CyrusShepard",
     "alexgroberman",
     "lilyraynyc"
    ],
-   "median_views": 3884,
+   "median_views": 2930,
    "example_urls": [
-    "https://x.com/alexgroberman/status/2105655686483104074",
-    "https://x.com/lilyraynyc/status/2105387660726477087",
-    "https://x.com/alexgroberman/status/2105682539109319133"
+    "https://x.com/alexgroberman/status/2106006897551868312",
+    "https://x.com/CyrusShepard/status/2105749266480451996",
+    "https://x.com/lilyraynyc/status/2106028207585554911"
    ]
   },
   {
-   "keyword": "pool / home service / contractor quote",
+   "keyword": "blue collar / trades",
    "posts": 2,
    "posts_focus": 2,
    "accounts": [
     "mhp_guy"
    ],
-   "median_views": 56413,
+   "median_views": 137970,
    "example_urls": [
-    "https://x.com/mhp_guy/status/2105426522714608107",
-    "https://x.com/mhp_guy/status/2105429684511277173"
+    "https://x.com/mhp_guy/status/2105735016051265820",
+    "https://x.com/mhp_guy/status/2105773112893624820"
    ]
   },
   {
-   "keyword": "listen / podcast / conversation",
+   "keyword": "ballpark / quote / price",
+   "posts": 2,
+   "posts_focus": 2,
+   "accounts": [
+    "mhp_guy"
+   ],
+   "median_views": 137970,
+   "example_urls": [
+    "https://x.com/mhp_guy/status/2105735016051265820",
+    "https://x.com/mhp_guy/status/2105773112893624820"
+   ]
+  },
+  {
+   "keyword": "local / DFW / towns",
+   "posts": 2,
+   "posts_focus": 2,
+   "accounts": [
+    "marclou",
+    "mhp_guy"
+   ],
+   "median_views": 117354,
+   "example_urls": [
+    "https://x.com/mhp_guy/status/2105735016051265820",
+    "https://x.com/marclou/status/2106012347990974793"
+   ]
+  },
+  {
+   "keyword": "delegate / people",
    "posts": 2,
    "posts_focus": 2,
    "accounts": [
     "sweatystartup"
    ],
-   "median_views": 16611,
+   "median_views": 9983,
    "example_urls": [
-    "https://x.com/sweatystartup/status/2105408006108455194",
-    "https://x.com/sweatystartup/status/2105645950995980753"
+    "https://x.com/sweatystartup/status/2105759245459464240",
+    "https://x.com/sweatystartup/status/2106031165052162163"
    ]
   },
   {
-   "keyword": "visibility / recovery",
+   "keyword": "Google",
    "posts": 2,
    "posts_focus": 2,
    "accounts": [
-    "lilyraynyc"
+    "CyrusShepard"
    ],
-   "median_views": 4947,
+   "median_views": 2360,
    "example_urls": [
-    "https://x.com/lilyraynyc/status/2105370093030940782",
-    "https://x.com/lilyraynyc/status/2105381787476115514"
+    "https://x.com/CyrusShepard/status/2105749266480451996",
+    "https://x.com/CyrusShepard/status/2105747886948675641"
    ]
   },
   {
-   "keyword": "listicles / scaled content",
-   "posts": 2,
-   "posts_focus": 2,
-   "accounts": [
-    "lilyraynyc"
-   ],
-   "median_views": 3727,
-   "example_urls": [
-    "https://x.com/lilyraynyc/status/2105387660726477087",
-    "https://x.com/lilyraynyc/status/2105381787476115514"
-   ]
-  },
-  {
-   "keyword": "electrical / trades",
-   "posts": 1,
-   "posts_focus": 1,
-   "accounts": [
-    "mhp_guy"
-   ],
-   "median_views": 14428,
-   "example_urls": [
-    "https://x.com/mhp_guy/status/2105429684511277173"
-   ]
-  },
-  {
-   "keyword": "DFW / local ask",
-   "posts": 1,
-   "posts_focus": 1,
-   "accounts": [
-    "mhp_guy"
-   ],
-   "median_views": 14428,
-   "example_urls": [
-    "https://x.com/mhp_guy/status/2105429684511277173"
-   ]
-  },
-  {
-   "keyword": "local business / local biz",
+   "keyword": "ChatGPT",
    "posts": 1,
    "posts_focus": 1,
    "accounts": [
     "alexgroberman"
    ],
-   "median_views": 7906,
+   "median_views": 2730,
    "example_urls": [
-    "https://x.com/alexgroberman/status/2105655686483104074"
+    "https://x.com/alexgroberman/status/2106043561204687342"
    ]
   },
   {
-   "keyword": "business partner / money",
+   "keyword": "cited / recommend",
    "posts": 1,
    "posts_focus": 1,
    "accounts": [
-    "sweatystartup"
+    "alexgroberman"
    ],
-   "median_views": 4623,
+   "median_views": 2730,
    "example_urls": [
-    "https://x.com/sweatystartup/status/2105678032866304128"
+    "https://x.com/alexgroberman/status/2106043561204687342"
+   ]
+  },
+  {
+   "keyword": "SEO",
+   "posts": 2,
+   "posts_focus": 1,
+   "accounts": [
+    "CyrusShepard",
+    "nathangotch"
+   ],
+   "median_views": 1807,
+   "example_urls": [
+    "https://x.com/CyrusShepard/status/2105706030902726669",
+    "https://x.com/nathangotch/status/2106001996637471180"
+   ]
+  },
+  {
+   "keyword": "slop",
+   "posts": 2,
+   "posts_focus": 0,
+   "accounts": [
+    "lilyraynyc"
+   ],
+   "median_views": 3685,
+   "example_urls": [
+    "https://x.com/lilyraynyc/status/2105831582758305821",
+    "https://x.com/lilyraynyc/status/2105730395002310788"
    ]
   }
  ],
@@ -492,155 +577,155 @@
   {
    "id": "A1",
    "account": "@BourgAnthony",
-   "type": "teaching (AI engines recommend local biz)",
-   "text": "If you run a local shop, AI engines are already picking who to recommend.\n\nA new study found cases where four major engines agreed on the same top local business.\n\nThat shop had a clear site. Real services. Real towns. Real photos.\n\nDirectories alone don't win that.",
-   "chars": 266,
+   "type": "teaching (AI quotes + contractor site)",
+   "text": "Someone just had an AI agent email 82 pool companies for a ballpark price while they slept.\n\nFive replied. Most never will.\n\nIf your site can't show towns, a price range, and a tap-to-call number, humans bounce. Agents will too.\n\nBallpark on the page beats silence.",
+   "chars": 265,
    "has_placeholders": false,
-   "pattern": "Conditional 'If you run a local biz...' plus study takeaway (alexgroberman, ~7.9k views)",
-   "inspired_by_url": "https://x.com/alexgroberman/status/2105655686483104074",
-   "inspired_by_handle": "@alexgroberman",
-   "inspired_by_views": 7906,
+   "pattern": "Big number + consequence from mhp_guy 82-pool AI agent post (~234k views)",
+   "inspired_by_url": "https://x.com/mhp_guy/status/2105735016051265820",
+   "inspired_by_handle": "@mhp_guy",
+   "inspired_by_views": 234592,
    "keywords": [
-    "AI search",
-    "local business",
-    "AI engines",
-    "recommend",
-    "StableAFdesigns"
+    "ballpark quote",
+    "contractor website",
+    "AI agents",
+    "tap to call",
+    "home service"
    ],
-   "video_tip": "Phone screen record: type a trade + your town into ChatGPT or Gemini. Screenshot who shows up. 10 seconds. No voiceover.",
-   "best_time_ct": "Weekday 8-11 AM CT (today's alexgroberman + sweatystartup hits landed ~8:08-8:46 AM CT; mhp_guy home-service rants peaked evening. Weak signal, Tony has little history of his own yet.)",
+   "video_tip": "Phone still: a trades homepage with no towns or prices next to one with Call now + service area. Same crop.",
+   "best_time_ct": "Weekday 8-11 AM CT (weak signal). Today's home-service/AI hits: mhp_guy pool-agent + blue-collar posts evening CT; alexgroberman AI Search ~8 AM CT. Tony has little history of his own yet.",
    "link_reply": "Optional reply: 'I build those pages for trades shops: stableafdesigns.com'"
   },
   {
    "id": "A2",
    "account": "@BourgAnthony",
-   "type": "opinion / home-service pain",
-   "text": "Four pool companies came out. Zero gave a ballpark.\n\nHomeowners hate that. Same for plumbers, electricians, HVAC.\n\nIf your site can't answer price range, towns you cover, and a tap-to-call number, callers bounce to the next name.\n\nBallpark beats silence.",
-   "chars": 254,
+   "type": "opinion (blue collar vs AI)",
+   "text": "Blue collar shops aren't safe from AI. Not because a bot pulls wire.\n\nBecause buyers will get 80 quotes overnight instead of 2.\n\nIf your site looks like 1998, you're one of the 75 that never get opened.\n\nClear towns. Real photos. Easy call button.",
+   "chars": 247,
    "has_placeholders": false,
-   "pattern": "Home-service rant mirrored from mhp_guy pool-quote post (~98k views): specific count + zero result + punchline",
-   "inspired_by_url": "https://x.com/mhp_guy/status/2105426522714608107",
+   "pattern": "If you think blue collar is safe... hot take (mhp_guy, ~41k views) turned into a website punchline for trades",
+   "inspired_by_url": "https://x.com/mhp_guy/status/2105773112893624820",
    "inspired_by_handle": "@mhp_guy",
-   "inspired_by_views": 98399,
+   "inspired_by_views": 41349,
    "keywords": [
+    "blue collar",
+    "AI quotes",
     "contractor website",
-    "ballpark quote",
-    "click to call",
-    "home service",
-    "web design"
+    "local business",
+    "StableAFdesigns"
    ],
-   "video_tip": "Two phone stills: a site with no prices or towns vs one with Call now + service area. Same frame.",
-   "best_time_ct": "Weekday 8-11 AM CT (today's alexgroberman + sweatystartup hits landed ~8:08-8:46 AM CT; mhp_guy home-service rants peaked evening. Weak signal, Tony has little history of his own yet.)",
+   "video_tip": "3-second scroll of an old contractor site, then cut to a clean one with the phone number stuck to the top.",
+   "best_time_ct": "Weekday 8-11 AM CT (weak signal). Today's home-service/AI hits: mhp_guy pool-agent + blue-collar posts evening CT; alexgroberman AI Search ~8 AM CT. Tony has little history of his own yet.",
    "link_reply": "none (let it stand)"
   },
   {
    "id": "A3",
    "account": "@BourgAnthony",
-   "type": "teaching (local findability)",
-   "text": "People with money still can't find a trades shop online.\n\nThey post in groups. They ask friends. They wait.\n\nIf Google and AI search can't match your name to the job and the town, you never get the call.\n\nOwn the page. Own the photos. Own the towns.",
-   "chars": 249,
+   "type": "teaching (AI search measurement)",
+   "text": "A lot of shops measure AI search wrong.\n\nThey watch referral traffic and call it flat.\n\nAsk ChatGPT for your trade plus your town. Screenshot who shows up.\n\nIf it isn't you, fix the page: services, towns, real job photos. Then check again.",
+   "chars": 239,
    "has_placeholders": false,
-   "pattern": "Local-ask pain from mhp_guy spray-foam DFW post (~14k) turned into a findability lesson for trades",
-   "inspired_by_url": "https://x.com/mhp_guy/status/2105429684511277173",
-   "inspired_by_handle": "@mhp_guy",
-   "inspired_by_views": 14428,
+   "pattern": "AI Search measured wrong takeaway (alexgroberman, ~7.3k views) as a local trades checklist",
+   "inspired_by_url": "https://x.com/alexgroberman/status/2106006897551868312",
+   "inspired_by_handle": "@alexgroberman",
+   "inspired_by_views": 7335,
    "keywords": [
+    "AI search",
+    "ChatGPT",
     "local SEO",
-    "Google Business Profile",
-    "trades",
-    "contractor marketing",
-    "StableAFdesigns"
+    "contractor website",
+    "recommend"
    ],
-   "video_tip": "15-second vertical: open Google Maps, search '[trade] near me', point at which shops have real job photos vs none.",
-   "best_time_ct": "Weekday 8-11 AM CT (today's alexgroberman + sweatystartup hits landed ~8:08-8:46 AM CT; mhp_guy home-service rants peaked evening. Weak signal, Tony has little history of his own yet.)",
-   "link_reply": "Optional reply: 'I fix this for local trades: stableafdesigns.com'"
+   "video_tip": "Screen-record 10 seconds: type '[trade] in [town]' into ChatGPT or Gemini. Show who gets named. No voiceover.",
+   "best_time_ct": "Weekday 8-11 AM CT (weak signal). Today's home-service/AI hits: mhp_guy pool-agent + blue-collar posts evening CT; alexgroberman AI Search ~8 AM CT. Tony has little history of his own yet.",
+   "link_reply": "Optional reply: 'I build the pages AI engines can actually cite: stableafdesigns.com'"
   },
   {
    "id": "A4",
    "account": "@BourgAnthony",
-   "type": "opinion (Google recovery)",
-   "text": "Some sites crushed by Google updates years ago are clawing visibility back.\n\nRecovery isn't a trick. It's useful pages that still match real searches.\n\nIf your contractor site is thin town pages and stock photos, don't wait for a bounce. Fix the pages.",
-   "chars": 252,
+   "type": "teaching (brand vs category cite)",
+   "text": "Fun fact from a new study:\n\nAsk ChatGPT about a brand by name and its site gets cited most of the time.\n\nAsk \"who's best in this category\" and that rate collapses.\n\nOwn your name online. Also own the category words: electrician, plumber, your towns.",
+   "chars": 249,
    "has_placeholders": false,
-   "pattern": "Recovery observation (lilyraynyc HCU visibility return, ~6.3k) pointed at contractor sites",
-   "inspired_by_url": "https://x.com/lilyraynyc/status/2105370093030940782",
-   "inspired_by_handle": "@lilyraynyc",
-   "inspired_by_views": 6325,
+   "pattern": "Brand-by-name vs category citation gap (alexgroberman fun-fact follow-up, ~2.7k and climbing; rides same thread as the 7.3k AI Search post)",
+   "inspired_by_url": "https://x.com/alexgroberman/status/2106043561204687342",
+   "inspired_by_handle": "@alexgroberman",
+   "inspired_by_views": 2730,
    "keywords": [
-    "Google updates",
-    "SEO recovery",
-    "contractor website",
+    "ChatGPT",
+    "cited",
+    "category",
     "local SEO",
-    "StableAFdesigns"
+    "brand"
    ],
-   "video_tip": "None needed. Optional still: Search Console graph labeled sample only, never invent a lift.",
-   "best_time_ct": "Weekday 8-11 AM CT (today's alexgroberman + sweatystartup hits landed ~8:08-8:46 AM CT; mhp_guy home-service rants peaked evening. Weak signal, Tony has little history of his own yet.)",
-   "link_reply": "Optional reply: 'Audits and rebuilds for trades: stableafdesigns.com'"
+   "video_tip": "Two screenshots side by side: '[YourBusiness]' vs 'best electrician near [town]'. Circle who shows.",
+   "best_time_ct": "Weekday 8-11 AM CT (weak signal). Today's home-service/AI hits: mhp_guy pool-agent + blue-collar posts evening CT; alexgroberman AI Search ~8 AM CT. Tony has little history of his own yet.",
+   "link_reply": "none"
   },
   {
    "id": "S1",
    "account": "@solitelectric",
-   "type": "homeowner tip (quotes)",
-   "text": "Hiring an electrician?\n\nAsk for a ballpark before they load the truck.\n\nScope of work.\nRough price range.\nWhat's included vs extras.\n\nA clear estimate saves both of you a wasted trip. Licensed shops can give one.",
-   "chars": 212,
+   "type": "homeowner tip (quotes + human)",
+   "text": "Getting 10 email quotes overnight doesn't mean you found your electrician.\n\nA cheap number with no license check, no site visit, and no panel photo is just a number.\n\nAsk who pulls the permit. Ask what's included. Meet someone on site before you wire money.",
+   "chars": 257,
    "has_placeholders": false,
-   "pattern": "Home-service quote pain (mhp_guy pool companies, ~98k) flipped into a Baton Rouge electrician tip for homeowners",
-   "inspired_by_url": "https://x.com/mhp_guy/status/2105426522714608107",
+   "pattern": "Counterweight to mhp_guy 82-quote AI agent story (~234k): what a homeowner should still verify in person",
+   "inspired_by_url": "https://x.com/mhp_guy/status/2105735016051265820",
    "inspired_by_handle": "@mhp_guy",
-   "inspired_by_views": 98399,
+   "inspired_by_views": 234592,
    "keywords": [
-    "electrician quote",
-    "ballpark estimate",
+    "electrician quotes",
     "licensed electrician",
-    "Baton Rouge",
-    "home electrical"
+    "panel",
+    "permit",
+    "Baton Rouge"
    ],
-   "video_tip": "Sister on camera, 10 seconds: 'Ask for a ballpark before we roll.' Van or panel in the background.",
-   "best_time_ct": "no clear pattern in this window (no electric_4u / Fat_Electrician / mikeroweworks originals cleared 5k)",
+   "video_tip": "Sister on camera, 8 seconds: 'Cheap quote means ask who's doing the work.' Face + van or panel behind her.",
+   "best_time_ct": "no clear electrician-account timing today (electric_4u / Fat_Electrician / mikeroweworks silent in window)",
    "link_reply": "none"
   },
   {
    "id": "S2",
    "account": "@solitelectric",
-   "type": "simple explainer",
-   "text": "Ground wire vs neutral ⚡\n\nNeutral carries current back under normal use.\nGround sits waiting for a fault, so metal cases don't become live.\n\nThey meet at the panel. Mixing them elsewhere is a code and safety problem.\n\nLicensed work keeps that straight.",
-   "chars": 252,
+   "type": "simple explainer (ground vs neutral)",
+   "text": "Ground vs neutral ⚡\n\nNeutral carries current back under normal use.\n\nGround is the safety path when something fails. It shouldn't carry current day to day.\n\nIf your outlet tester shows an open ground, that's not a \"maybe later\" fix.",
+   "chars": 232,
    "has_placeholders": false,
-   "pattern": "Two-thing contrast explainer in electric_4u shape (no electric hits today, keep the lane warm)",
+   "pattern": "Two-thing contrast headline with emoji (electric_4u style; no electric hits today so evergreen safety)",
    "inspired_by_url": "https://x.com/electric_4u/status/2102352467690438712",
    "inspired_by_handle": null,
    "inspired_by_views": null,
    "keywords": [
-    "ground wire",
+    "ground",
     "neutral",
+    "outlet",
     "electrical safety",
-    "panel",
     "electrician"
    ],
-   "video_tip": "Close-up of a 3-prong outlet or open box, finger pointing at the ground screw. 5-second vertical. No music.",
-   "best_time_ct": "no clear pattern in this window (no electric_4u / Fat_Electrician / mikeroweworks originals cleared 5k)",
+   "video_tip": "5-second vertical close-up pointing at the ground screw in a 3-prong outlet or open box. No music.",
+   "best_time_ct": "no clear electrician-account timing today (electric_4u / Fat_Electrician / mikeroweworks silent in window)",
    "link_reply": "none"
   },
   {
    "id": "S3",
    "account": "@solitelectric",
-   "type": "show the work",
-   "text": "[Job type] today in [Baton Rouge area town].\n\nBefore: [real detail]\nAfter: [real detail]\n\n[photo before] [photo after]\n\n[One line from her about what she noticed, in her words]",
-   "chars": 176,
+   "type": "show the work (photo)",
+   "text": "Panel work in [city] today.\n\nOld: [age/brand/amperage]\nNew: [what went in]\n\n[before photo] [after photo]\n\n[One line from her about what she caught on this job]",
+   "chars": 159,
    "has_placeholders": true,
-   "pattern": "Plain show-the-work with photos carrying it (mhp_guy / DannPetty energy; fill brackets with real job only)",
-   "inspired_by_url": "https://x.com/mhp_guy/status/2105429684511277173",
-   "inspired_by_handle": "@mhp_guy",
-   "inspired_by_views": 14428,
+   "pattern": "Plain show-the-work with photos carrying it (DannPetty / marclou photo posts still dominate views)",
+   "inspired_by_url": "https://x.com/DannPetty/status/2105743999696847090",
+   "inspired_by_handle": "@DannPetty",
+   "inspired_by_views": 12181,
    "keywords": [
-    "licensed electrician",
-    "Baton Rouge electrician",
     "panel upgrade",
-    "show the work",
-    "SoLit Electric"
+    "electrical panel",
+    "licensed electrician",
+    "[city]",
+    "home electrical"
    ],
-   "video_tip": "Same angle before and after, good light, panel cover off. 3-second pan across labeled breakers at the end.",
-   "best_time_ct": "no clear pattern in this window (no electric_4u / Fat_Electrician / mikeroweworks originals cleared 5k)",
+   "video_tip": "Before/after from the same spot, cover off, good light. 3-second pan across labeled breakers at the end.",
+   "best_time_ct": "no clear electrician-account timing today (electric_4u / Fat_Electrician / mikeroweworks silent in window)",
    "link_reply": "none"
   }
  ],
@@ -688,75 +773,69 @@
  ],
  "no_hits": [
   {
-   "handle": "@mhp_guy",
-   "status": "no_post",
-   "reason": "No original posted Thu Oct 1 CT. Latest pulled original: Wed Sep 30 (809 views).",
-   "max_views": null
+   "handle": "@jh3yy",
+   "status": "below_floor",
+   "reason": "25 original(s) on Fri Oct 2, all below 5,000; best 453 views.",
+   "max_views": 453
   },
   {
    "handle": "@DannPetty",
-   "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 20,292 views, best 71,982, 16/16 originals ≥5,000.",
+   "status": "no_post",
+   "reason": "No original posted Fri Oct 2 CT. Latest pulled original: Thu Oct 1 (12,181 views).",
    "max_views": null
   },
   {
    "handle": "@MengTo",
-   "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 51,090 views, best 451,907, 10/10 originals ≥5,000.",
+   "status": "no_post",
+   "reason": "No original posted Fri Oct 2 CT.",
    "max_views": null
   },
   {
-   "handle": "@jh3yy",
-   "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 15,195 views, best 132,841, 5/8 originals ≥5,000.",
+   "handle": "@CyrusShepard",
+   "status": "no_post",
+   "reason": "No original posted Fri Oct 2 CT. Latest pulled original: Thu Oct 1 (4,388 views).",
+   "max_views": null
+  },
+  {
+   "handle": "@electric_4u",
+   "status": "no_post",
+   "reason": "No original posted Fri Oct 2 CT.",
    "max_views": null
   },
   {
    "handle": "@ridd_design",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 6,540 views, best 19,723, 11/15 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 2 hit can't be confirmed. 30-day sample: median 6,540 views, best 19,723, 11/15 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@AdhamDannaway",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 4,377 views, best 98,108, 12/25 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 2 hit can't be confirmed. 30-day sample: median 4,377 views, best 98,108, 12/25 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@randfish",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 9,653 views, best 11,817, 4/5 originals ≥5,000.",
-   "max_views": null
-  },
-  {
-   "handle": "@CyrusShepard",
-   "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 5,002 views, best 10,619, 3/5 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 2 hit can't be confirmed. 30-day sample: median 9,653 views, best 11,817, 4/5 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@lilyraynyc",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 4,663 views, best 14,146, 4/11 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 2 hit can't be confirmed. 30-day sample: median 4,663 views, best 14,146, 4/11 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@Fat_Electrician",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 91,086 views, best 247,678, 8/8 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 2 hit can't be confirmed. 30-day sample: median 91,086 views, best 247,678, 8/8 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@mikeroweworks",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 41,134 views, best 1,056,426, 10/10 originals ≥5,000.",
-   "max_views": null
-  },
-  {
-   "handle": "@electric_4u",
-   "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 1 hit can't be confirmed. 30-day sample: median 6,916 views, best 11,642, 9/9 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 2 hit can't be confirmed. 30-day sample: median 41,134 views, best 1,056,426, 10/10 originals ≥5,000.",
    "max_views": null
   }
  ],
@@ -768,144 +847,189 @@
    "@solitelectric"
   ],
   "status": "starting today",
-  "tracking_since": "2026-10-01",
+  "tracking_since": "2026-10-02",
   "posts_tracked": 0,
   "note": "Both accounts are new. No posts of your own are tracked yet, so there is no personal score history. It starts with the first published draft."
  },
  "leaderboards": {
-  "as_of": "2026-10-01",
+  "as_of": "2026-10-02",
   "week": {
-   "label": "Week · Sep 25–Oct 1",
+   "label": "Week · Sep 26–Oct 2",
    "range": [
-    "2026-09-25",
-    "2026-10-01"
+    "2026-09-26",
+    "2026-10-02"
    ],
    "entries": [
     {
      "handle": "@mhp_guy",
      "name": "Small-business marketing",
-     "views": 664415,
-     "hits": 6,
+     "views": 367288,
+     "hits": 5,
+     "days": 2,
+     "best": 234592,
+     "best_url": "https://x.com/mhp_guy/status/2105735016051265820",
+     "best_hook": "Well this was an easy fix.",
+     "partial": false
+    },
+    {
+     "handle": "@marclou",
+     "name": "Web/build in public",
+     "views": 118702,
+     "hits": 4,
      "days": 1,
-     "best": 298976,
-     "best_url": "https://x.com/mhp_guy/status/2105423241103749240",
-     "best_hook": "@CoFoundersNik You posted this tweet about Google 14 months ago, so I bought $6k of Google. Up 80% so far. So yes now I’m buying MCD https://t.co/YzrsSoBagH htt",
+     "best": 61788,
+     "best_url": "https://x.com/marclou/status/2106014598700863548",
+     "best_hook": "I did my yearly body fat test this morning.",
+     "partial": false
+    },
+    {
+     "handle": "@jh3yy",
+     "name": "Web design (UI/CSS craft)",
+     "views": 43262,
+     "hits": 2,
+     "days": 1,
+     "best": 35316,
+     "best_url": "https://x.com/jh3yy/status/2105823926978814273",
+     "best_hook": "magnetic bento hover effect w/ css anchor positioning",
      "partial": false
     },
     {
      "handle": "@sweatystartup",
      "name": "Small-business / local services",
-     "views": 33223,
+     "views": 19966,
      "hits": 2,
      "days": 2,
-     "best": 23158,
-     "best_url": "https://x.com/sweatystartup/status/2105408006108455194",
-     "best_hook": "This one conversation completely changed how I think about hiring, delegation and managing a team. https://t.co/UrHhEgViMD",
+     "best": 14911,
+     "best_url": "https://x.com/sweatystartup/status/2105759245459464240",
+     "best_hook": "How to delegate the right way",
      "partial": false
     },
     {
-     "handle": "@ridd_design",
-     "name": "Web/product design",
-     "views": 27573,
+     "handle": "@DannPetty",
+     "name": "Web design",
+     "views": 12181,
      "hits": 1,
      "days": 1,
-     "best": 27573,
-     "best_url": "https://x.com/ridd_design/status/2105459895973576931",
-     "best_hook": "reverse engineer all the things",
-     "partial": true
-    },
-    {
-     "handle": "@marclou",
-     "name": "Web/build in public",
-     "views": 24748,
-     "hits": 3,
-     "days": 1,
-     "best": 12415,
-     "best_url": "https://x.com/marclou/status/2105609676562055306",
-     "best_hook": "I added a new acquisition pipeline for buyers of TrustMRR:",
-     "partial": true
-    },
-    {
-     "handle": "@jh3yy",
-     "name": "Web design (UI/CSS craft)",
-     "views": 23913,
-     "hits": 1,
-     "days": 1,
-     "best": 23913,
-     "best_url": "https://x.com/jh3yy/status/2105446925851873494",
-     "best_hook": "`field-sizing: content` lets you autosize textareas in css",
-     "partial": true
+     "best": 12181,
+     "best_url": "https://x.com/DannPetty/status/2105743999696847090",
+     "best_hook": "I'm literally having the best time of my life.",
+     "partial": false
     },
     {
      "handle": "@alexgroberman",
      "name": "SEO / AI-search for businesses",
-     "views": 7906,
+     "views": 7335,
      "hits": 1,
      "days": 1,
-     "best": 7906,
-     "best_url": "https://x.com/alexgroberman/status/2105655686483104074",
-     "best_hook": "If you run a local biz, there is a huge opportunity in becoming the company multiple AI engines independently decide to recommend.",
+     "best": 7335,
+     "best_url": "https://x.com/alexgroberman/status/2106006897551868312",
+     "best_hook": "There is a massive AI Search opportunity right now that I think a lot of businesses are measuring completely wrong.",
      "partial": false
     },
     {
      "handle": "@lilyraynyc",
      "name": "SEO",
-     "views": 6325,
+     "views": 5008,
      "hits": 1,
      "days": 1,
-     "best": 6325,
-     "best_url": "https://x.com/lilyraynyc/status/2105370093030940782",
-     "best_hook": "This is interesting to see - a few sites hit hard by Google's updates 3 years ago (including the HCU!) are starting to gain back visibility in recent weeks &amp",
+     "best": 5008,
+     "best_url": "https://x.com/lilyraynyc/status/2105781327559573662",
+     "best_hook": "😩😩😩",
      "partial": true
     }
    ]
   },
   "month": {
-   "label": "Month · Oct 1–Oct 1",
+   "label": "Month · Oct 1–Oct 2",
    "range": [
     "2026-10-01",
-    "2026-10-01"
+    "2026-10-02"
    ],
    "entries": [
     {
+     "handle": "@mhp_guy",
+     "name": "Small-business marketing",
+     "views": 367288,
+     "hits": 5,
+     "days": 2,
+     "best": 234592,
+     "best_url": "https://x.com/mhp_guy/status/2105735016051265820",
+     "best_hook": "Well this was an easy fix.",
+     "partial": false
+    },
+    {
      "handle": "@marclou",
      "name": "Web/build in public",
-     "views": 24748,
-     "hits": 3,
+     "views": 118702,
+     "hits": 4,
      "days": 1,
-     "best": 12415,
-     "best_url": "https://x.com/marclou/status/2105609676562055306",
-     "best_hook": "I added a new acquisition pipeline for buyers of TrustMRR:",
-     "partial": true
+     "best": 61788,
+     "best_url": "https://x.com/marclou/status/2106014598700863548",
+     "best_hook": "I did my yearly body fat test this morning.",
+     "partial": false
+    },
+    {
+     "handle": "@jh3yy",
+     "name": "Web design (UI/CSS craft)",
+     "views": 43262,
+     "hits": 2,
+     "days": 1,
+     "best": 35316,
+     "best_url": "https://x.com/jh3yy/status/2105823926978814273",
+     "best_hook": "magnetic bento hover effect w/ css anchor positioning",
+     "partial": false
     },
     {
      "handle": "@sweatystartup",
      "name": "Small-business / local services",
-     "views": 10065,
+     "views": 19966,
+     "hits": 2,
+     "days": 2,
+     "best": 14911,
+     "best_url": "https://x.com/sweatystartup/status/2105759245459464240",
+     "best_hook": "How to delegate the right way",
+     "partial": false
+    },
+    {
+     "handle": "@DannPetty",
+     "name": "Web design",
+     "views": 12181,
      "hits": 1,
      "days": 1,
-     "best": 10065,
-     "best_url": "https://x.com/sweatystartup/status/2105645950995980753",
-     "best_hook": "If you own a company or want to own a company someday, listen to this!!! https://t.co/vFKaesfVvP",
+     "best": 12181,
+     "best_url": "https://x.com/DannPetty/status/2105743999696847090",
+     "best_hook": "I'm literally having the best time of my life.",
      "partial": false
     },
     {
      "handle": "@alexgroberman",
      "name": "SEO / AI-search for businesses",
-     "views": 7906,
+     "views": 7335,
      "hits": 1,
      "days": 1,
-     "best": 7906,
-     "best_url": "https://x.com/alexgroberman/status/2105655686483104074",
-     "best_hook": "If you run a local biz, there is a huge opportunity in becoming the company multiple AI engines independently decide to recommend.",
+     "best": 7335,
+     "best_url": "https://x.com/alexgroberman/status/2106006897551868312",
+     "best_hook": "There is a massive AI Search opportunity right now that I think a lot of businesses are measuring completely wrong.",
      "partial": false
+    },
+    {
+     "handle": "@lilyraynyc",
+     "name": "SEO",
+     "views": 5008,
+     "hits": 1,
+     "days": 1,
+     "best": 5008,
+     "best_url": "https://x.com/lilyraynyc/status/2105781327559573662",
+     "best_hook": "😩😩😩",
+     "partial": true
     }
    ]
   },
   "days_included": [
-   "2026-10-01"
+   "2026-10-01",
+   "2026-10-02"
   ],
-  "note": "82 pulled originals ≥5K · partial-pull accounts undercount"
+  "note": "112 pulled originals ≥5K · partial-pull accounts undercount"
  },
  "board_features": {
   "count_up": true,
