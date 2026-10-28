@@ -1,8 +1,8 @@
 {
- "title": "Spark X virality digest — 2026-10-27",
- "date": "2026-10-27",
+ "title": "Spark X virality digest — 2026-10-28",
+ "date": "2026-10-28",
  "timezone": "America/Chicago",
- "updated": "2026-10-27T11:15:53-05:00",
+ "updated": "2026-10-28T11:13:49-05:00",
  "brand_title": "Spark · X Virality Board",
  "brand_handle": "@BourgAnthony · @solitelectric",
  "operator_handles": [
@@ -16,28 +16,29 @@
   "star_views": 10000
  },
  "hit_window": {
-  "start": "2026-10-27T00:00:00-05:00",
-  "end": "2026-10-28T00:00:00-05:00",
-  "label": "posts from Tue Oct 27 CT"
+  "start": "2026-10-28T00:00:00-05:00",
+  "end": "2026-10-29T00:00:00-05:00",
+  "label": "posts from Wed Oct 28 CT"
  },
  "coverage": {
-  "posts_in_corpus": 35,
+  "posts_in_corpus": 32,
   "full_pull_accounts": [
-   "@CyrusShepard",
    "@DannPetty",
+   "@Fat_Electrician",
    "@MengTo",
    "@alexgroberman",
+   "@brodieseo",
    "@lilyraynyc",
    "@marclou",
    "@mhp_guy",
-   "@ridd_design",
    "@sweatystartup"
   ],
   "partial_accounts": [
    "@jh3yy",
+   "@ridd_design",
    "@AdhamDannaway",
    "@randfish",
-   "@Fat_Electrician",
+   "@CyrusShepard",
    "@mikeroweworks",
    "@electric_4u"
   ],
@@ -47,41 +48,19 @@
   {
    "handle": "@marclou",
    "name": "Web/build in public",
-   "url": "https://x.com/marclou/status/2114994891600068863",
-   "status_url": "https://x.com/marclou/status/2114994891600068863",
-   "posted_at": "2026-10-27T03:17:31-05:00",
-   "posted_label": "Tue Oct 27, 3:17 AM CT",
-   "views": 57577,
-   "views_label": "57,577",
-   "highlight": true,
-   "formats": [
-    "photo",
-    "video"
-   ],
-   "quote_post": false,
-   "text": "This hotel in Dubai is so good \n\nIt’s built for health and wellness. They have hotels rooms with pull up bars and treadmills. They have night lights so you fall asleep easily. The rooms are dead quiet.  \n\nThe gym is insane. View in the Burj Khalifa, tons of machines for lifting, https://t.co/xmc1EfHIxP",
-   "hook": "This hotel in Dubai is so good \n\nIt’s built for health and wellness. They have hotels rooms with pull up bars and treadmills. They have night lights so you fall asleep easily. The rooms are dead quiet.  \n\nThe gym is insane. View in the Burj Khalifa, tons of machines for lifting, https://t.co/xmc1EfHIxP",
-   "draft_en": "",
-   "draft_id": null,
-   "draft_account": null,
-   "video_tip": ""
-  },
-  {
-   "handle": "@marclou",
-   "name": "Web/build in public",
-   "url": "https://x.com/marclou/status/2115009987890360535",
-   "status_url": "https://x.com/marclou/status/2115009987890360535",
-   "posted_at": "2026-10-27T04:17:30-05:00",
-   "posted_label": "Tue Oct 27, 4:17 AM CT",
-   "views": 40475,
-   "views_label": "40,475",
+   "url": "https://x.com/marclou/status/2115425311420539295",
+   "status_url": "https://x.com/marclou/status/2115425311420539295",
+   "posted_at": "2026-10-28T07:47:51-05:00",
+   "posted_label": "Wed Oct 28, 7:47 AM CT",
+   "views": 136811,
+   "views_label": "136,811",
    "highlight": true,
    "formats": [
     "text"
    ],
    "quote_post": false,
-   "text": "I’m not paid to say this",
-   "hook": "I’m not paid to say this",
+   "text": "And that, ladies and gentlemen, is the end of UI for SaaS https://t.co/2U7IAosXgF",
+   "hook": "And that, ladies and gentlemen, is the end of UI for SaaS https://t.co/2U7IAosXgF",
    "draft_en": "",
    "draft_id": null,
    "draft_account": null,
@@ -90,19 +69,19 @@
   {
    "handle": "@marclou",
    "name": "Web/build in public",
-   "url": "https://x.com/marclou/status/2114990093995778472",
-   "status_url": "https://x.com/marclou/status/2114990093995778472",
-   "posted_at": "2026-10-27T02:58:27-05:00",
-   "posted_label": "Tue Oct 27, 2:58 AM CT",
-   "views": 35328,
-   "views_label": "35,328",
+   "url": "https://x.com/marclou/status/2115361846353858766",
+   "status_url": "https://x.com/marclou/status/2115361846353858766",
+   "posted_at": "2026-10-28T03:35:40-05:00",
+   "posted_label": "Wed Oct 28, 3:35 AM CT",
+   "views": 48928,
+   "views_label": "48,928",
    "highlight": true,
    "formats": [
     "photo"
    ],
    "quote_post": false,
-   "text": "Resend bug: header values with a double quote get RFC 2047-encoded, breaking the new OTP-Token header.\n\n➡️ Sent: OTP-Token: \"123456\"; origin=\"https://t.co/xwX4fhenj0\"\n⬅️ Received: Otp-Token: =?UTF-8?Q?=22123456=22...\n\nInboxes can't parse it. Same with raw API + latest SDK https://t.co/yzB4A9hZhu",
-   "hook": "Resend bug: header values with a double quote get RFC 2047-encoded, breaking the new OTP-Token header.\n\n➡️ Sent: OTP-Token: \"123456\"; origin=\"https://t.co/xwX4fhenj0\"\n⬅️ Received: Otp-Token: =?UTF-8?Q?=22123456=22...\n\nInboxes can't parse it. Same with raw API + latest SDK https://t.co/yzB4A9hZhu",
+   "text": "Congrats, you're the fastest-growing startup of the week on TrustMRR 👏\n\n$4,884 MRR \n+2,253% growth MoM\n\nThis guy built a real-time geospatial intelligence platform. It shows flights, satellites, ships, and so many other things on a globe.\n\nIt's free, but you can get the Pro plan https://t.co/7mEfeYaR4Q https://t.co/ZZDydAyeEr",
+   "hook": "Congrats, you're the fastest-growing startup of the week on TrustMRR 👏\n\n$4,884 MRR \n+2,253% growth MoM\n\nThis guy built a real-time geospatial intelligence platform. It shows flights, satellites, ships, and so many other things on a globe.\n\nIt's free, but you can get the Pro plan https://t.co/7mEfeYaR4Q https://t.co/ZZDydAyeEr",
    "draft_en": "",
    "draft_id": null,
    "draft_account": null,
@@ -111,19 +90,40 @@
   {
    "handle": "@marclou",
    "name": "Web/build in public",
-   "url": "https://x.com/marclou/status/2115048116693131297",
-   "status_url": "https://x.com/marclou/status/2115048116693131297",
-   "posted_at": "2026-10-27T06:49:01-05:00",
-   "posted_label": "Tue Oct 27, 6:49 AM CT",
-   "views": 32374,
-   "views_label": "32,374",
+   "url": "https://x.com/marclou/status/2115408487341830384",
+   "status_url": "https://x.com/marclou/status/2115408487341830384",
+   "posted_at": "2026-10-28T06:41:00-05:00",
+   "posted_label": "Wed Oct 28, 6:41 AM CT",
+   "views": 32420,
+   "views_label": "32,420",
    "highlight": true,
    "formats": [
-    "photo"
+    "text"
    ],
    "quote_post": false,
-   "text": "Is SaaS dead?\n\nI analyzed 758 startups with over $1,000 MRR on https://t.co/Fz0cUG0u3O.\n\n1. Their revenue over the last 4 months is slightly declining.\n\nThat compounded decline would be about 11% per year. At a steady pace, that's 45% degrowth in 5 years.\n\n2. B2B revenue is https://t.co/jjNv5cpcE7",
-   "hook": "Is SaaS dead?\n\nI analyzed 758 startups with over $1,000 MRR on https://t.co/Fz0cUG0u3O.\n\n1. Their revenue over the last 4 months is slightly declining.\n\nThat compounded decline would be about 11% per year. At a steady pace, that's 45% degrowth in 5 years.\n\n2. B2B revenue is https://t.co/jjNv5cpcE7",
+   "text": "You can't lose in entrepreneurship.\n\nYou either win, or you learn.",
+   "hook": "You can't lose in entrepreneurship.\n\nYou either win, or you learn.",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
+   "video_tip": ""
+  },
+  {
+   "handle": "@marclou",
+   "name": "Web/build in public",
+   "url": "https://x.com/marclou/status/2115328112267555113",
+   "status_url": "https://x.com/marclou/status/2115328112267555113",
+   "posted_at": "2026-10-28T01:21:37-05:00",
+   "posted_label": "Wed Oct 28, 1:21 AM CT",
+   "views": 22876,
+   "views_label": "22,876",
+   "highlight": true,
+   "formats": [
+    "text"
+   ],
+   "quote_post": false,
+   "text": "It’s so nice to see the indie hacking scene take care of their health and meet each others IRL.\n\nPeak life goals imho https://t.co/Icmy5EevsL",
+   "hook": "It’s so nice to see the indie hacking scene take care of their health and meet each others IRL.\n\nPeak life goals imho https://t.co/Icmy5EevsL",
    "draft_en": "",
    "draft_id": null,
    "draft_account": null,
@@ -132,105 +132,40 @@
   {
    "handle": "@sweatystartup",
    "name": "Small-business / local services",
-   "url": "https://x.com/sweatystartup/status/2115062294543569121",
-   "status_url": "https://x.com/sweatystartup/status/2115062294543569121",
-   "posted_at": "2026-10-27T07:45:21-05:00",
-   "posted_label": "Tue Oct 27, 7:45 AM CT",
-   "views": 28059,
-   "views_label": "28,059",
-   "highlight": true,
-   "formats": [
-    "quote",
-    "text"
-   ],
-   "quote_post": true,
-   "text": "The real winners of the Anthropic IPO:\n\nGoogle and Amazon.\n\nThey sold Anthropic equipment and compute in exchange for stock and convertable notes so Anthropic could look more profitable than they are. They also invested $26B in cash.\n\nThey own 26% of the company.\n\nWill be worth https://t.co/Qvz61BIX14",
-   "hook": "The real winners of the Anthropic IPO:\n\nGoogle and Amazon.\n\nThey sold Anthropic equipment and compute in exchange for stock and convertable notes so Anthropic could look more profitable than they are. They also invested $26B in cash.\n\nThey own 26% of the company.\n\nWill be worth https://t.co/Qvz61BIX14",
-   "draft_en": "",
-   "draft_id": null,
-   "draft_account": null,
-   "video_tip": ""
-  },
-  {
-   "handle": "@marclou",
-   "name": "Web/build in public",
-   "url": "https://x.com/marclou/status/2115068760432500789",
-   "status_url": "https://x.com/marclou/status/2115068760432500789",
-   "posted_at": "2026-10-27T08:11:03-05:00",
-   "posted_label": "Tue Oct 27, 8:11 AM CT",
-   "views": 16051,
-   "views_label": "16,051",
-   "highlight": true,
-   "formats": [
-    "photo"
-   ],
-   "quote_post": false,
-   "text": "I just shipped this to https://t.co/doMhF11flP:\n\n🧱 HTML blocks &amp; buttons in the editor\n📰 Publish to email, web, or both\n🌐 Custom domain for your newsletter site\n✨ Personalize with any custom field\n👀 Preview as any subscriber\n👤 Subscriber profiles\n🗂️ Contact filters &amp; https://t.co/DQ60RbYJbA",
-   "hook": "I just shipped this to https://t.co/doMhF11flP:\n\n🧱 HTML blocks &amp; buttons in the editor\n📰 Publish to email, web, or both\n🌐 Custom domain for your newsletter site\n✨ Personalize with any custom field\n👀 Preview as any subscriber\n👤 Subscriber profiles\n🗂️ Contact filters &amp; https://t.co/DQ60RbYJbA",
-   "draft_en": "",
-   "draft_id": null,
-   "draft_account": null,
-   "video_tip": ""
-  },
-  {
-   "handle": "@marclou",
-   "name": "Web/build in public",
-   "url": "https://x.com/marclou/status/2115065974818770992",
-   "status_url": "https://x.com/marclou/status/2115065974818770992",
-   "posted_at": "2026-10-27T07:59:59-05:00",
-   "posted_label": "Tue Oct 27, 7:59 AM CT",
-   "views": 13005,
-   "views_label": "13,005",
-   "highlight": true,
-   "formats": [
-    "video"
-   ],
-   "quote_post": false,
-   "text": "https://t.co/Fz0cUFZWeg https://t.co/o76kgEf0C7",
-   "hook": "https://t.co/Fz0cUFZWeg https://t.co/o76kgEf0C7",
-   "draft_en": "",
-   "draft_id": null,
-   "draft_account": null,
-   "video_tip": ""
-  },
-  {
-   "handle": "@marclou",
-   "name": "Web/build in public",
-   "url": "https://x.com/marclou/status/2115084350584938900",
-   "status_url": "https://x.com/marclou/status/2115084350584938900",
-   "posted_at": "2026-10-27T09:13:00-05:00",
-   "posted_label": "Tue Oct 27, 9:13 AM CT",
-   "views": 10080,
-   "views_label": "10,080",
-   "highlight": true,
-   "formats": [
-    "photo"
-   ],
-   "quote_post": false,
-   "text": "Mentions of “TrustMRR” on X and Reddit in the last 24h.\n\nNot sure what’s going on 🤷 https://t.co/nsJu6idcrO",
-   "hook": "Mentions of “TrustMRR” on X and Reddit in the last 24h.\n\nNot sure what’s going on 🤷 https://t.co/nsJu6idcrO",
-   "draft_en": "",
-   "draft_id": null,
-   "draft_account": null,
-   "video_tip": ""
-  },
-  {
-   "handle": "@sweatystartup",
-   "name": "Small-business / local services",
-   "url": "https://x.com/sweatystartup/status/2115036502388285724",
-   "status_url": "https://x.com/sweatystartup/status/2115036502388285724",
-   "posted_at": "2026-10-27T06:02:52-05:00",
-   "posted_label": "Tue Oct 27, 6:02 AM CT",
-   "views": 9620,
-   "views_label": "9,620",
+   "url": "https://x.com/sweatystartup/status/2115423171566514647",
+   "status_url": "https://x.com/sweatystartup/status/2115423171566514647",
+   "posted_at": "2026-10-28T07:39:21-05:00",
+   "posted_label": "Wed Oct 28, 7:39 AM CT",
+   "views": 9152,
+   "views_label": "9,152",
    "highlight": false,
    "formats": [
-    "quote",
     "text"
    ],
-   "quote_post": true,
-   "text": "Real estate values don’t go up when a recession hits for several reasons:\n\n1) operations / cashflow drop. Lower revenue means less profit. Less profit means lower value.\n\n2) banks have trouble with other assets and are less likely to provide new debt.\n\n3) raising capital / equity https://t.co/W7u5GSBK41",
-   "hook": "Real estate values don’t go up when a recession hits for several reasons:\n\n1) operations / cashflow drop. Lower revenue means less profit. Less profit means lower value.\n\n2) banks have trouble with other assets and are less likely to provide new debt.\n\n3) raising capital / equity https://t.co/W7u5GSBK41",
+   "quote_post": false,
+   "text": "My experience has been the opposite. \n\nBut maybe it’s because I have a lot of hobbies so I meet people through the golf club, hunting, etc.\n\nGolf attracts mega successful people in my experience. https://t.co/zejRQ7MzAW",
+   "hook": "My experience has been the opposite. \n\nBut maybe it’s because I have a lot of hobbies so I meet people through the golf club, hunting, etc.\n\nGolf attracts mega successful people in my experience. https://t.co/zejRQ7MzAW",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
+   "video_tip": ""
+  },
+  {
+   "handle": "@sweatystartup",
+   "name": "Small-business / local services",
+   "url": "https://x.com/sweatystartup/status/2115447082953613485",
+   "status_url": "https://x.com/sweatystartup/status/2115447082953613485",
+   "posted_at": "2026-10-28T09:14:22-05:00",
+   "posted_label": "Wed Oct 28, 9:14 AM CT",
+   "views": 7416,
+   "views_label": "7,416",
+   "highlight": false,
+   "formats": [
+    "text"
+   ],
+   "quote_post": false,
+   "text": "Bad advice that is constantly preached to young people: \n\n“Follow your passion and make money doing what you love” even if that means being underpaid and struggling financially. \n\nGood advice: “Make money chasing an opportunity now and then spend your time doing what you love",
+   "hook": "Bad advice that is constantly preached to young people: \n\n“Follow your passion and make money doing what you love” even if that means being underpaid and struggling financially. \n\nGood advice: “Make money chasing an opportunity now and then spend your time doing what you love",
    "draft_en": "",
    "draft_id": null,
    "draft_account": null,
@@ -239,27 +174,47 @@
   {
    "handle": "@alexgroberman",
    "name": "SEO / AI-search for businesses",
-   "url": "https://x.com/alexgroberman/status/2115069324570632680",
-   "status_url": "https://x.com/alexgroberman/status/2115069324570632680",
-   "posted_at": "2026-10-27T08:13:17-05:00",
-   "posted_label": "Tue Oct 27, 8:13 AM CT",
-   "views": 7432,
-   "views_label": "7,432",
+   "url": "https://x.com/alexgroberman/status/2115432414919237943",
+   "status_url": "https://x.com/alexgroberman/status/2115432414919237943",
+   "posted_at": "2026-10-28T08:16:05-05:00",
+   "posted_label": "Wed Oct 28, 8:16 AM CT",
+   "views": 5153,
+   "views_label": "5,153",
    "highlight": false,
    "formats": [
-    "photo",
-    "quote"
+    "photo"
    ],
-   "quote_post": true,
-   "text": "Google just revealed why it sometimes ignores your site.\n\nYes, even if you think you are doing everything right.\n\nThis comes straight from Google’s John Mueller.\n\nA site owner recently took to Reddit with a frustrating problem.\n\nTheir sitemap returned a 200, the XML was valid, https://t.co/iotoHtYMhu https://t.co/HfbGSKO7KW",
-   "hook": "Google just revealed why it sometimes ignores your site.\n\nYes, even if you think you are doing everything right.\n\nThis comes straight from Google’s John Mueller.\n\nA site owner recently took to Reddit with a frustrating problem.\n\nTheir sitemap returned a 200, the XML was valid, https://t.co/iotoHtYMhu https://t.co/HfbGSKO7KW",
-   "draft_en": "A valid sitemap doesn't mean Google is using your pages. @alexgroberman broke down a John Mueller answer on exactly that.\n\nTwo minute check for any local business: search site:yourdomain.com and count what shows up. If your service pages are missing, start there.",
-   "draft_id": "A2",
+   "quote_post": false,
+   "text": "There is a huge opportunity for businesses competing on buyer-intent searches right now.\n\nSpecifically because Google AI Overviews are showing up directly on the searches people make when they are deciding what to BUY.\n\nA new study produced some fun AI Overviews numbers. They are https://t.co/rG699NUcZx https://t.co/zXBXWsgeWC",
+   "hook": "There is a huge opportunity for businesses competing on buyer-intent searches right now.\n\nSpecifically because Google AI Overviews are showing up directly on the searches people make when they are deciding what to BUY.\n\nA new study produced some fun AI Overviews numbers. They are https://t.co/rG699NUcZx https://t.co/zXBXWsgeWC",
+   "draft_en": "AI Overviews are now showing up on the searches people make right before they buy, per a study @alexgroberman shared.\n\nFor trades that means your service pages need the basics up front: what you do, where you work, how fast you can come out.",
+   "draft_id": "A4",
    "draft_account": "@BourgAnthony",
+   "video_tip": ""
+  },
+  {
+   "handle": "@MengTo",
+   "name": "Web design",
+   "url": "https://x.com/MengTo/status/2115411286356001001",
+   "status_url": "https://x.com/MengTo/status/2115411286356001001",
+   "posted_at": "2026-10-28T06:52:07-05:00",
+   "posted_label": "Wed Oct 28, 6:52 AM CT",
+   "views": 5050,
+   "views_label": "5,050",
+   "highlight": false,
+   "formats": [
+    "text"
+   ],
+   "quote_post": false,
+   "text": "I asked @Dola_Trend to create these launch visuals. It blew my mind.\n\nIt only took one prompt and one screenshot and it produced 3 campaign routes and a Seedream 5.0 Pro hero for each.\n\nHere's the workflow, step by step 👇",
+   "hook": "I asked @Dola_Trend to create these launch visuals. It blew my mind.\n\nIt only took one prompt and one screenshot and it produced 3 campaign routes and a Seedream 5.0 Pro hero for each.\n\nHere's the workflow, step by step 👇",
+   "draft_en": "",
+   "draft_id": null,
+   "draft_account": null,
    "video_tip": ""
   }
  ],
- "hits_count": 10,
+ "hits_count": 8,
  "virals": [],
  "outsiders": [],
  "outsiders_count": 0,
@@ -267,172 +222,157 @@
  "virals_window": null,
  "virals_narrative": "",
  "patterns": [
-  "E-E-A-T matters for rankings and AI · 2 posts · med 11.6K",
-  "designing in Claude/Cursor vs Figma · 1 posts · med 39.5K",
-  "landing page into a reel · 1 posts · med 22.3K",
-  "seasonal trade side hustle (Christmas lights) · 1 posts · med 19.8K",
-  "Google spam policy / generated pages · 1 posts · med 13.6K",
-  "bad install / amateur workmanship · 1 posts · med 8.7K",
-  "Google ignoring your site / sitemap / indexing · 1 posts · med 7.4K",
-  "AI Overviews on most queries / GSC tracking · 1 posts · med 6.9K"
+  "AI-run ads / AI doing the work · 2 posts · med 27.8K",
+  "end of UI / SaaS · 1 posts · med 136.8K",
+  "Claude/Figma to clickable prototype · 1 posts · med 34.7K",
+  "missed calls / voicemail for small service businesses · 1 posts · med 30.6K",
+  "boring niche repair service · 1 posts · med 22.8K",
+  "AI Overviews citations shrinking · 1 posts · med 11.2K",
+  "AI Overviews on buyer-intent searches · 1 posts · med 5.2K"
  ],
  "hook_patterns": [
   {
    "pattern": "platform_rule_change",
    "label": "platform rule change",
-   "description": "'Google has updated its X policy' or 'Google just revealed why', then what it means for site owners",
+   "description": "'Google has made changes to X' or 'AI Overviews are now showing on Y', then what it means for sites",
    "count": 2,
-   "median_views": 13639,
+   "median_views": 11212,
    "accounts": [
-    "@lilyraynyc",
+    "@brodieseo",
     "@alexgroberman"
    ],
-   "example": "https://x.com/lilyraynyc/status/2114801927938810076"
+   "example": "https://x.com/brodieseo/status/2115203247271297116"
   },
   {
-   "pattern": "myth_vs_reality_list",
-   "label": "myth vs reality list",
-   "description": "Bulleted list of claims with the real answer in parentheses",
+   "pattern": "you_dont_have_to",
+   "label": "you dont have to",
+   "description": "Permission hook ('You don't have to X') followed by the exact script or method he used",
    "count": 1,
-   "median_views": 11564,
+   "median_views": 30638,
    "accounts": [
-    "@CyrusShepard"
+    "@sweatystartup"
    ],
-   "example": "https://x.com/CyrusShepard/status/2114895082700869959"
+   "example": "https://x.com/sweatystartup/status/2115120644387897720"
   },
   {
-   "pattern": "ordinary_person_money_story",
-   "label": "ordinary person money story",
-   "description": "Regular person, specific season numbers, leaving the day job",
+   "pattern": "boring_niche_price",
+   "label": "boring niche price",
+   "description": "Price range up front for an unglamorous fix, then the before/after",
    "count": 1,
-   "median_views": 19759,
+   "median_views": 22848,
    "accounts": [
     "@mhp_guy"
    ],
-   "example": "https://x.com/mhp_guy/status/2114763835936735321"
+   "example": "https://x.com/mhp_guy/status/2115187731475104109"
   },
   {
-   "pattern": "new_workflow_confession",
-   "label": "new workflow confession",
-   "description": "'X is great, but I'm doing Y now' about tools",
-   "count": 2,
-   "median_views": 39518,
+   "pattern": "quoted_prompt_plus_demo",
+   "label": "quoted prompt plus demo",
+   "description": "Opens with the literal prompt in quotes, then a short punchline and a video",
+   "count": 1,
+   "median_views": 34739,
    "accounts": [
-    "@DannPetty",
-    "@MengTo"
+    "@DannPetty"
    ],
-   "example": "https://x.com/DannPetty/status/2114761123928969275"
+   "example": "https://x.com/DannPetty/status/2115119716976955547"
   },
   {
    "pattern": "blunt_one_liner",
    "label": "blunt one liner",
-   "description": "Short opinion or correction, no setup",
+   "description": "Short opinion, no setup",
    "count": 2,
-   "median_views": 33967,
+   "median_views": 136811,
    "accounts": [
-    "@lilyraynyc",
-    "@sweatystartup"
+    "@marclou"
    ],
-   "example": "https://x.com/lilyraynyc/status/2114809693042561027"
+   "example": "https://x.com/marclou/status/2115425311420539295"
   }
  ],
  "keywords": [
   {
-   "keyword": "Google spam policy / generated pages",
+   "keyword": "AI Overviews citations shrinking",
    "posts": 1,
-   "median_views": 13639,
+   "median_views": 11212,
    "posts_focus": 1,
    "accounts": [
-    "lilyraynyc"
+    "brodieseo"
    ],
    "example_urls": [
-    "https://x.com/lilyraynyc/status/2114801927938810076"
+    "https://x.com/brodieseo/status/2115203247271297116"
    ]
   },
   {
-   "keyword": "Google ignoring your site / sitemap / indexing",
+   "keyword": "AI Overviews on buyer-intent searches",
    "posts": 1,
-   "median_views": 7432,
+   "median_views": 5153,
    "posts_focus": 1,
    "accounts": [
     "alexgroberman"
    ],
    "example_urls": [
-    "https://x.com/alexgroberman/status/2115069324570632680"
+    "https://x.com/alexgroberman/status/2115432414919237943"
    ]
   },
   {
-   "keyword": "E-E-A-T matters for rankings and AI",
-   "posts": 2,
-   "median_views": 11564,
-   "posts_focus": 2,
-   "accounts": [
-    "CyrusShepard",
-    "lilyraynyc"
-   ],
-   "example_urls": [
-    "https://x.com/CyrusShepard/status/2114895082700869959",
-    "https://x.com/lilyraynyc/status/2114809693042561027"
-   ]
-  },
-  {
-   "keyword": "AI Overviews on most queries / GSC tracking",
+   "keyword": "missed calls / voicemail for small service businesses",
    "posts": 1,
-   "median_views": 6872,
+   "median_views": 30638,
    "posts_focus": 1,
    "accounts": [
-    "lilyraynyc"
+    "sweatystartup"
    ],
    "example_urls": [
-    "https://x.com/lilyraynyc/status/2114750772743217428"
+    "https://x.com/sweatystartup/status/2115120644387897720"
    ]
   },
   {
-   "keyword": "seasonal trade side hustle (Christmas lights)",
+   "keyword": "boring niche repair service",
    "posts": 1,
-   "median_views": 19759,
+   "median_views": 22848,
    "posts_focus": 1,
    "accounts": [
     "mhp_guy"
    ],
    "example_urls": [
-    "https://x.com/mhp_guy/status/2114763835936735321"
+    "https://x.com/mhp_guy/status/2115187731475104109"
    ]
   },
   {
-   "keyword": "designing in Claude/Cursor vs Figma",
+   "keyword": "Claude/Figma to clickable prototype",
    "posts": 1,
-   "median_views": 39518,
+   "median_views": 34739,
    "posts_focus": 1,
    "accounts": [
     "DannPetty"
    ],
    "example_urls": [
-    "https://x.com/DannPetty/status/2114761123928969275"
+    "https://x.com/DannPetty/status/2115119716976955547"
    ]
   },
   {
-   "keyword": "landing page into a reel",
-   "posts": 1,
-   "median_views": 22302,
-   "posts_focus": 1,
+   "keyword": "AI-run ads / AI doing the work",
+   "posts": 2,
+   "median_views": 27812,
+   "posts_focus": 2,
    "accounts": [
+    "mhp_guy",
     "MengTo"
    ],
    "example_urls": [
-    "https://x.com/MengTo/status/2114769742682886477"
+    "https://x.com/mhp_guy/status/2115150856299675835",
+    "https://x.com/MengTo/status/2115411286356001001"
    ]
   },
   {
-   "keyword": "bad install / amateur workmanship",
+   "keyword": "end of UI / SaaS",
    "posts": 1,
-   "median_views": 8701,
+   "median_views": 136811,
    "posts_focus": 1,
    "accounts": [
-    "electric_4u"
+    "marclou"
    ],
    "example_urls": [
-    "https://x.com/electric_4u/status/2114752604198854679"
+    "https://x.com/marclou/status/2115425311420539295"
    ]
   }
  ],
@@ -442,34 +382,34 @@
   {
    "id": "A1",
    "account": "@BourgAnthony",
-   "type": "Google spam policy",
-   "text": "Google updated its spam policies to warn sites that let users publish \"shareable pages, generated outputs, or interactive tools.\" (h/t @lilyraynyc)\n\nFor a local business site the safe play hasn't changed. Pages you wrote, about jobs you actually did, in towns you actually serve.",
-   "chars": 279,
+   "type": "own your domain",
+   "text": "@cedric_design said it right: you own the site and the domain from day one.\n\nIf you run a trade business, ask your web person one question this week. Whose name is the domain registered under? If it isn't yours or your company's, fix that first.",
+   "chars": 245,
    "has_placeholders": false,
-   "pattern": "Platform rule change (lilyraynyc 13.6K)",
-   "inspired_by_url": "https://x.com/lilyraynyc/status/2114801927938810076",
-   "inspired_by_handle": "@lilyraynyc",
-   "inspired_by_views": 13639,
+   "pattern": "Blunt rule (cedric_design 1.5K, below threshold but on-brand)",
+   "inspired_by_url": "https://x.com/cedric_design/status/2115125625044484296",
+   "inspired_by_handle": null,
+   "inspired_by_views": null,
    "keywords": [
-    "Google spam policy / generated pages"
+    "own your site and domain"
    ],
-   "video_tip": "Video tip (@BourgAnthony, about 15 sec, vertical screen recording): type site:[client domain] into Google and show how many pages come up, then show the site's own page list or sitemap side by side. Caption: 'Is Google even seeing all your pages?' Only show the real counts you get; don't add a number that isn't on screen.",
+   "video_tip": "Video tip (@BourgAnthony, about 15 sec, vertical screen recording): run a public domain lookup (ICANN Lookup) on [client domain] and point at who the registrant is and when it expires. Caption: 'Do you actually own your website's domain?' Blur anything private and only show what's on screen; no made-up horror stories.",
    "best_time_ct": "Weekday late morning CT; the standing 8:54 AM slot works for one a day.",
    "link_reply": ""
   },
   {
    "id": "A2",
    "account": "@BourgAnthony",
-   "type": "is Google even seeing your site",
-   "text": "A valid sitemap doesn't mean Google is using your pages. @alexgroberman broke down a John Mueller answer on exactly that.\n\nTwo minute check for any local business: search site:yourdomain.com and count what shows up. If your service pages are missing, start there.",
-   "chars": 263,
+   "type": "missed calls",
+   "text": "You can't answer the phone with a breaker panel open. @sweatystartup shared the voicemail he used while working a day job.\n\nYour website should do the same thing. Your name, your number at the top of every page, and when you'll call back.",
+   "chars": 238,
    "has_placeholders": false,
-   "pattern": "Platform rule change (alexgroberman 7.4K)",
-   "inspired_by_url": "https://x.com/alexgroberman/status/2115069324570632680",
-   "inspired_by_handle": "@alexgroberman",
-   "inspired_by_views": 7432,
+   "pattern": "You don't have to (sweatystartup 30.6K)",
+   "inspired_by_url": "https://x.com/sweatystartup/status/2115120644387897720",
+   "inspired_by_handle": "@sweatystartup",
+   "inspired_by_views": 30638,
    "keywords": [
-    "Google ignoring your site / sitemap / indexing"
+    "missed calls / voicemail for small service businesses"
    ],
    "video_tip": "",
    "best_time_ct": "Weekday late morning CT; the standing 8:54 AM slot works for one a day.",
@@ -478,16 +418,16 @@
   {
    "id": "A3",
    "account": "@BourgAnthony",
-   "type": "E-E-A-T for trades",
-   "text": "E-E-A-T isn't just an AI search thing. As @CyrusShepard put it, it influences rankings too.\n\nFor a trade business that means the owner's name, the license number, real job photos, and reviews you didn't write. Same work helps you on Google and in ChatGPT.",
-   "chars": 255,
+   "type": "AI Overview citations shrinking",
+   "text": "@brodieseo is seeing Google cut back the citation cards in AI Overviews. Fewer sites get that spot.\n\nFor a local business, put the work where you still have control: your Google Business Profile, real reviews, and service pages that answer the question plainly.",
+   "chars": 261,
    "has_placeholders": false,
-   "pattern": "Myth vs reality list (CyrusShepard 11.6K) plus lilyraynyc E-E-A-T one-liner (6.1K)",
-   "inspired_by_url": "https://x.com/CyrusShepard/status/2114895082700869959",
-   "inspired_by_handle": "@CyrusShepard",
-   "inspired_by_views": 11564,
+   "pattern": "Platform rule change (brodieseo 11.2K)",
+   "inspired_by_url": "https://x.com/brodieseo/status/2115203247271297116",
+   "inspired_by_handle": null,
+   "inspired_by_views": null,
    "keywords": [
-    "E-E-A-T matters for rankings and AI"
+    "AI Overviews citations shrinking"
    ],
    "video_tip": "",
    "best_time_ct": "Weekday late morning CT; the standing 8:54 AM slot works for one a day.",
@@ -496,16 +436,16 @@
   {
    "id": "A4",
    "account": "@BourgAnthony",
-   "type": "seasonal window",
-   "text": "@mhp_guy shared a teacher who grossed $75K hanging Christmas lights last season.\n\nSeasonal work gets a short window to be found. If you do lights, gutters, or heating and your site still talks about summer, update it this week, before people start searching.",
-   "chars": 258,
+   "type": "buyer-intent searches",
+   "text": "AI Overviews are now showing up on the searches people make right before they buy, per a study @alexgroberman shared.\n\nFor trades that means your service pages need the basics up front: what you do, where you work, how fast you can come out.",
+   "chars": 241,
    "has_placeholders": false,
-   "pattern": "Ordinary person money story (mhp_guy 19.8K)",
-   "inspired_by_url": "https://x.com/mhp_guy/status/2114763835936735321",
-   "inspired_by_handle": "@mhp_guy",
-   "inspired_by_views": 19759,
+   "pattern": "Platform rule change (alexgroberman 5.2K)",
+   "inspired_by_url": "https://x.com/alexgroberman/status/2115432414919237943",
+   "inspired_by_handle": "@alexgroberman",
+   "inspired_by_views": 5153,
    "keywords": [
-    "seasonal trade side hustle (Christmas lights)"
+    "AI Overviews on buyer-intent searches"
    ],
    "video_tip": "",
    "best_time_ct": "Weekday late morning CT; the standing 8:54 AM slot works for one a day.",
@@ -556,75 +496,69 @@
  ],
  "no_hits": [
   {
-   "handle": "@MengTo",
+   "handle": "@lilyraynyc",
    "status": "below_floor",
-   "reason": "1 original(s) on Tue Oct 27, all below 5,000; best 2,500 views.",
-   "max_views": 2500
+   "reason": "2 original(s) on Wed Oct 28, all below 5,000; best 2,545 views.",
+   "max_views": 2545
   },
   {
    "handle": "@DannPetty",
    "status": "no_post",
-   "reason": "No original posted Tue Oct 27 CT. Latest pulled original: Mon Oct 26 (4,852 views).",
-   "max_views": null
-  },
-  {
-   "handle": "@ridd_design",
-   "status": "no_post",
-   "reason": "No original posted Tue Oct 27 CT. Latest pulled original: Mon Oct 26 (5,191 views).",
+   "reason": "No original posted Wed Oct 28 CT. Latest pulled original: Tue Oct 27 (34,739 views).",
    "max_views": null
   },
   {
    "handle": "@mhp_guy",
    "status": "no_post",
-   "reason": "No original posted Tue Oct 27 CT. Latest pulled original: Mon Oct 26 (19,759 views).",
+   "reason": "No original posted Wed Oct 28 CT. Latest pulled original: Tue Oct 27 (22,848 views).",
    "max_views": null
   },
   {
-   "handle": "@CyrusShepard",
+   "handle": "@Fat_Electrician",
    "status": "no_post",
-   "reason": "No original posted Tue Oct 27 CT. Latest pulled original: Mon Oct 26 (11,564 views).",
-   "max_views": null
-  },
-  {
-   "handle": "@lilyraynyc",
-   "status": "no_post",
-   "reason": "No original posted Tue Oct 27 CT. Latest pulled original: Mon Oct 26 (7,638 views).",
+   "reason": "No original posted Wed Oct 28 CT. Latest pulled original: Tue Oct 27 (119,743 views).",
    "max_views": null
   },
   {
    "handle": "@jh3yy",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 27 hit can't be confirmed. 30-day sample: median 15,195 views, best 132,841, 5/8 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 28 hit can't be confirmed. 30-day sample: median 15,195 views, best 132,841, 5/8 originals ≥5,000.",
+   "max_views": null
+  },
+  {
+   "handle": "@ridd_design",
+   "status": "not_pulled",
+   "reason": "Not in today's post-by-post pull, so a Oct 28 hit can't be confirmed. 30-day sample: median 6,540 views, best 19,723, 11/15 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@AdhamDannaway",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 27 hit can't be confirmed. 30-day sample: median 4,377 views, best 98,108, 12/25 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 28 hit can't be confirmed. 30-day sample: median 4,377 views, best 98,108, 12/25 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@randfish",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 27 hit can't be confirmed. 30-day sample: median 9,653 views, best 11,817, 4/5 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 28 hit can't be confirmed. 30-day sample: median 9,653 views, best 11,817, 4/5 originals ≥5,000.",
    "max_views": null
   },
   {
-   "handle": "@Fat_Electrician",
+   "handle": "@CyrusShepard",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 27 hit can't be confirmed. 30-day sample: median 91,086 views, best 247,678, 8/8 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 28 hit can't be confirmed. 30-day sample: median 5,002 views, best 10,619, 3/5 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@mikeroweworks",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 27 hit can't be confirmed. 30-day sample: median 41,134 views, best 1,056,426, 10/10 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 28 hit can't be confirmed. 30-day sample: median 41,134 views, best 1,056,426, 10/10 originals ≥5,000.",
    "max_views": null
   },
   {
    "handle": "@electric_4u",
    "status": "not_pulled",
-   "reason": "Not in today's post-by-post pull, so a Oct 27 hit can't be confirmed. 30-day sample: median 6,916 views, best 11,642, 9/9 originals ≥5,000.",
+   "reason": "Not in today's post-by-post pull, so a Oct 28 hit can't be confirmed. 30-day sample: median 6,916 views, best 11,642, 9/9 originals ≥5,000.",
    "max_views": null
   }
  ],
@@ -636,255 +570,211 @@
    "@solitelectric"
   ],
   "status": "starting today",
-  "tracking_since": "2026-10-27",
+  "tracking_since": "2026-10-28",
   "posts_tracked": 0,
   "note": "Both accounts are new. No posts of your own are tracked yet, so there is no personal score history. It starts with the first published draft."
  },
  "leaderboards": {
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "week": {
-   "label": "Week · Oct 21–Oct 27",
+   "label": "Week · Oct 22–Oct 28",
    "range": [
-    "2026-10-21",
-    "2026-10-27"
+    "2026-10-22",
+    "2026-10-28"
    ],
    "entries": [
     {
-     "handle": "@sweatystartup",
-     "name": "Small-business / local services",
-     "views": 1193525,
-     "hits": 6,
-     "days": 2,
-     "best": 1087830,
-     "best_url": "https://x.com/sweatystartup/status/2114772700639961089",
-     "best_hook": "My predictions over the following months:",
-     "partial": false
-    },
-    {
      "handle": "@marclou",
      "name": "Web/build in public",
-     "views": 204890,
+     "views": 396143,
      "hits": 7,
-     "days": 1,
-     "best": 57577,
-     "best_url": "https://x.com/marclou/status/2114994891600068863",
-     "best_hook": "This hotel in Dubai is so good",
+     "days": 2,
+     "best": 136811,
+     "best_url": "https://x.com/marclou/status/2115425311420539295",
+     "best_hook": "And that, ladies and gentlemen, is the end of UI for SaaS https://t.co/2U7IAosXgF",
      "partial": false
     },
     {
-     "handle": "@DannPetty",
-     "name": "Web design",
-     "views": 39518,
+     "handle": "@sweatystartup",
+     "name": "Small-business / local services",
+     "views": 196600,
+     "hits": 5,
+     "days": 2,
+     "best": 139356,
+     "best_url": "https://x.com/sweatystartup/status/2115129439545647401",
+     "best_hook": "This Anthropic IPO is big techs heist of the century.",
+     "partial": false
+    },
+    {
+     "handle": "@Fat_Electrician",
+     "name": "Trades (electrician-turned creator)",
+     "views": 119743,
      "hits": 1,
      "days": 1,
-     "best": 39518,
-     "best_url": "https://x.com/DannPetty/status/2114761123928969275",
-     "best_hook": "Designing in Figma is great.",
+     "best": 119743,
+     "best_url": "https://x.com/Fat_Electrician/status/2115204749813223631",
+     "best_hook": "Wouldn’t it be crazy if @TheAKGuy’s general election opponent, @katy4congress, got caught up in a last-minute sex scandal, just like Tony Gonzales did during th",
      "partial": false
     },
     {
      "handle": "@mhp_guy",
      "name": "Small-business marketing",
-     "views": 37158,
+     "views": 50660,
      "hits": 2,
      "days": 1,
-     "best": 19759,
-     "best_url": "https://x.com/mhp_guy/status/2114763835936735321",
-     "best_hook": "A teacher in Louisiana makes about $45K a year teaching.",
+     "best": 27812,
+     "best_url": "https://x.com/mhp_guy/status/2115150856299675835",
+     "best_hook": "I'm getting newsletter subscribers for $1.40 each with Facebook ads.",
+     "partial": false
+    },
+    {
+     "handle": "@DannPetty",
+     "name": "Web design",
+     "views": 34739,
+     "hits": 1,
+     "days": 1,
+     "best": 34739,
+     "best_url": "https://x.com/DannPetty/status/2115119716976955547",
+     "best_hook": "“Hey Claude, take these concepts from this Figma file and build them into something a client can arrow through.”",
      "partial": false
     },
     {
      "handle": "@lilyraynyc",
      "name": "SEO",
-     "views": 34284,
-     "hits": 4,
-     "days": 1,
-     "best": 13639,
-     "best_url": "https://x.com/lilyraynyc/status/2114801927938810076",
-     "best_hook": "This is interesting: Google has updated its spam policies (again!) to warn sites that allow users to publish \"shareable pages, generated outputs, or interactive",
-     "partial": false
-    },
-    {
-     "handle": "@MengTo",
-     "name": "Web design",
-     "views": 22302,
+     "views": 6565,
      "hits": 1,
      "days": 1,
-     "best": 22302,
-     "best_url": "https://x.com/MengTo/status/2114769742682886477",
-     "best_hook": "I made a skill called HTML Reel that turns a post, a video or a landing page into a reel.",
+     "best": 6565,
+     "best_url": "https://x.com/lilyraynyc/status/2115126763001180261",
+     "best_hook": "So many things to say about this, so little time https://t.co/Yq5ajuOmfx",
      "partial": false
     },
     {
      "handle": "@alexgroberman",
      "name": "SEO / AI-search for businesses",
-     "views": 15193,
-     "hits": 2,
-     "days": 2,
-     "best": 7761,
-     "best_url": "https://x.com/alexgroberman/status/2114776956508205339",
-     "best_hook": "Most “AI editor” tools are pretty good at finding the obvious moments.",
+     "views": 5153,
+     "hits": 1,
+     "days": 1,
+     "best": 5153,
+     "best_url": "https://x.com/alexgroberman/status/2115432414919237943",
+     "best_hook": "There is a huge opportunity for businesses competing on buyer-intent searches right now.",
      "partial": false
     },
     {
-     "handle": "@electric_4u",
-     "name": "Electrical education",
-     "views": 15114,
-     "hits": 2,
-     "days": 1,
-     "best": 8701,
-     "best_url": "https://x.com/electric_4u/status/2114752604198854679",
-     "best_hook": "This is not the best way to install a surveillance camera.",
-     "partial": true
-    },
-    {
-     "handle": "@CyrusShepard",
-     "name": "SEO",
-     "views": 11564,
+     "handle": "@MengTo",
+     "name": "Web design",
+     "views": 5050,
      "hits": 1,
      "days": 1,
-     "best": 11564,
-     "best_url": "https://x.com/CyrusShepard/status/2114895082700869959",
-     "best_hook": "SEO Controversies through the years:",
-     "partial": false
-    },
-    {
-     "handle": "@ridd_design",
-     "name": "Web/product design",
-     "views": 5191,
-     "hits": 1,
-     "days": 1,
-     "best": 5191,
-     "best_url": "https://x.com/ridd_design/status/2114920306699825631",
-     "best_hook": "I have 10 agents running overnight on a tool/system thingy that I think might change my design workflow forever",
+     "best": 5050,
+     "best_url": "https://x.com/MengTo/status/2115411286356001001",
+     "best_hook": "I asked @Dola_Trend to create these launch visuals. It blew my mind.",
      "partial": false
     }
    ]
   },
   "month": {
-   "label": "Month · Oct 1–Oct 27",
+   "label": "Month · Oct 1–Oct 28",
    "range": [
     "2026-10-01",
-    "2026-10-27"
+    "2026-10-28"
    ],
    "entries": [
     {
-     "handle": "@sweatystartup",
-     "name": "Small-business / local services",
-     "views": 1193525,
-     "hits": 6,
-     "days": 2,
-     "best": 1087830,
-     "best_url": "https://x.com/sweatystartup/status/2114772700639961089",
-     "best_hook": "My predictions over the following months:",
-     "partial": false
-    },
-    {
      "handle": "@marclou",
      "name": "Web/build in public",
-     "views": 204890,
+     "views": 396143,
      "hits": 7,
-     "days": 1,
-     "best": 57577,
-     "best_url": "https://x.com/marclou/status/2114994891600068863",
-     "best_hook": "This hotel in Dubai is so good",
+     "days": 2,
+     "best": 136811,
+     "best_url": "https://x.com/marclou/status/2115425311420539295",
+     "best_hook": "And that, ladies and gentlemen, is the end of UI for SaaS https://t.co/2U7IAosXgF",
      "partial": false
     },
     {
-     "handle": "@DannPetty",
-     "name": "Web design",
-     "views": 39518,
+     "handle": "@sweatystartup",
+     "name": "Small-business / local services",
+     "views": 196600,
+     "hits": 5,
+     "days": 2,
+     "best": 139356,
+     "best_url": "https://x.com/sweatystartup/status/2115129439545647401",
+     "best_hook": "This Anthropic IPO is big techs heist of the century.",
+     "partial": false
+    },
+    {
+     "handle": "@Fat_Electrician",
+     "name": "Trades (electrician-turned creator)",
+     "views": 119743,
      "hits": 1,
      "days": 1,
-     "best": 39518,
-     "best_url": "https://x.com/DannPetty/status/2114761123928969275",
-     "best_hook": "Designing in Figma is great.",
+     "best": 119743,
+     "best_url": "https://x.com/Fat_Electrician/status/2115204749813223631",
+     "best_hook": "Wouldn’t it be crazy if @TheAKGuy’s general election opponent, @katy4congress, got caught up in a last-minute sex scandal, just like Tony Gonzales did during th",
      "partial": false
     },
     {
      "handle": "@mhp_guy",
      "name": "Small-business marketing",
-     "views": 37158,
+     "views": 50660,
      "hits": 2,
      "days": 1,
-     "best": 19759,
-     "best_url": "https://x.com/mhp_guy/status/2114763835936735321",
-     "best_hook": "A teacher in Louisiana makes about $45K a year teaching.",
+     "best": 27812,
+     "best_url": "https://x.com/mhp_guy/status/2115150856299675835",
+     "best_hook": "I'm getting newsletter subscribers for $1.40 each with Facebook ads.",
+     "partial": false
+    },
+    {
+     "handle": "@DannPetty",
+     "name": "Web design",
+     "views": 34739,
+     "hits": 1,
+     "days": 1,
+     "best": 34739,
+     "best_url": "https://x.com/DannPetty/status/2115119716976955547",
+     "best_hook": "“Hey Claude, take these concepts from this Figma file and build them into something a client can arrow through.”",
      "partial": false
     },
     {
      "handle": "@lilyraynyc",
      "name": "SEO",
-     "views": 34284,
-     "hits": 4,
-     "days": 1,
-     "best": 13639,
-     "best_url": "https://x.com/lilyraynyc/status/2114801927938810076",
-     "best_hook": "This is interesting: Google has updated its spam policies (again!) to warn sites that allow users to publish \"shareable pages, generated outputs, or interactive",
-     "partial": false
-    },
-    {
-     "handle": "@MengTo",
-     "name": "Web design",
-     "views": 22302,
+     "views": 6565,
      "hits": 1,
      "days": 1,
-     "best": 22302,
-     "best_url": "https://x.com/MengTo/status/2114769742682886477",
-     "best_hook": "I made a skill called HTML Reel that turns a post, a video or a landing page into a reel.",
+     "best": 6565,
+     "best_url": "https://x.com/lilyraynyc/status/2115126763001180261",
+     "best_hook": "So many things to say about this, so little time https://t.co/Yq5ajuOmfx",
      "partial": false
     },
     {
      "handle": "@alexgroberman",
      "name": "SEO / AI-search for businesses",
-     "views": 15193,
-     "hits": 2,
-     "days": 2,
-     "best": 7761,
-     "best_url": "https://x.com/alexgroberman/status/2114776956508205339",
-     "best_hook": "Most “AI editor” tools are pretty good at finding the obvious moments.",
+     "views": 5153,
+     "hits": 1,
+     "days": 1,
+     "best": 5153,
+     "best_url": "https://x.com/alexgroberman/status/2115432414919237943",
+     "best_hook": "There is a huge opportunity for businesses competing on buyer-intent searches right now.",
      "partial": false
     },
     {
-     "handle": "@electric_4u",
-     "name": "Electrical education",
-     "views": 15114,
-     "hits": 2,
-     "days": 1,
-     "best": 8701,
-     "best_url": "https://x.com/electric_4u/status/2114752604198854679",
-     "best_hook": "This is not the best way to install a surveillance camera.",
-     "partial": true
-    },
-    {
-     "handle": "@CyrusShepard",
-     "name": "SEO",
-     "views": 11564,
+     "handle": "@MengTo",
+     "name": "Web design",
+     "views": 5050,
      "hits": 1,
      "days": 1,
-     "best": 11564,
-     "best_url": "https://x.com/CyrusShepard/status/2114895082700869959",
-     "best_hook": "SEO Controversies through the years:",
-     "partial": false
-    },
-    {
-     "handle": "@ridd_design",
-     "name": "Web/product design",
-     "views": 5191,
-     "hits": 1,
-     "days": 1,
-     "best": 5191,
-     "best_url": "https://x.com/ridd_design/status/2114920306699825631",
-     "best_hook": "I have 10 agents running overnight on a tool/system thingy that I think might change my design workflow forever",
+     "best": 5050,
+     "best_url": "https://x.com/MengTo/status/2115411286356001001",
+     "best_hook": "I asked @Dola_Trend to create these launch visuals. It blew my mind.",
      "partial": false
     }
    ]
   },
   "days_included": [
-   "2026-10-26",
-   "2026-10-27"
+   "2026-10-27",
+   "2026-10-28"
   ],
-  "note": "35 pulled originals ≥5K · partial-pull accounts undercount"
+  "note": "32 pulled originals ≥5K · partial-pull accounts undercount"
  },
  "board_features": {
   "count_up": true,
